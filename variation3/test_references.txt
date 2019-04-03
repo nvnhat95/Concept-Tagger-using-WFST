@@ -1,0 +1,8201 @@
+star	O-star
+of	O-of
+thor	B-movie.name
+
+who	O-who
+is	O-is
+in	O-in
+the	O-the
+movie	O-movie
+the	B-movie.name
+campaign	I-movie.name
+
+list	O-list
+the	O-the
+cast	O-cast
+of	O-of
+the	O-the
+movie	O-movie
+the	B-movie.name
+campaign	I-movie.name
+
+who	O-who
+was	O-was
+in	O-in
+twilight	B-movie.name
+
+who	O-who
+is	O-is
+in	O-in
+vulguria	B-movie.name
+
+actor	O-actor
+from	O-from
+lost	B-movie.name
+
+who	O-who
+played	O-played
+in	O-in
+the	O-the
+movie	O-movie
+rocky	B-movie.name
+
+who	O-who
+played	O-played
+in	O-in
+the	O-the
+movie	O-movie
+captain	B-movie.name
+america	I-movie.name
+
+cast	O-cast
+and	O-and
+crew	O-crew
+for	O-for
+in	B-movie.name
+july	I-movie.name
+
+who	O-who
+is	O-is
+in	O-in
+movie	O-movie
+in	B-movie.name
+july	I-movie.name
+
+who	O-who
+'s	O-'s
+in	O-in
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+
+who	O-who
+was	O-was
+in	O-in
+apollo	B-movie.name
+thirteen	I-movie.name
+
+who	O-who
+was	O-was
+apollo	B-movie.name
+thirteen	I-movie.name
+'s	O-'s
+cast	O-cast
+
+search	O-search
+for	O-for
+information	O-information
+about	O-about
+the	O-the
+cast	O-cast
+and	O-and
+crew	O-crew
+of	O-of
+appolo	B-movie.name
+thirteen	I-movie.name
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+more	O-more
+about	O-about
+the	O-the
+cast	O-cast
+and	O-and
+crew	O-crew
+of	O-of
+the	O-the
+movie	O-movie
+apollo	B-movie.name
+thirteen	I-movie.name
+
+who	O-who
+starred	O-starred
+in	O-in
+the	B-movie.name
+avengers	I-movie.name
+
+cast	O-cast
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+actor	O-actor
+from	O-from
+lassie	B-movie.name
+
+list	O-list
+actors	O-actors
+in	O-in
+the	O-the
+movie	O-movie
+midnight	B-movie.name
+cowboy	I-movie.name
+
+dirty	B-movie.name
+dancing	I-movie.name
+actors	O-actors
+
+who	O-who
+are	O-are
+cast	O-cast
+and	O-and
+crew	O-crew
+of	O-of
+dirty	B-movie.name
+dancing	I-movie.name
+
+who	O-who
+was	O-was
+in	O-in
+hitch	B-movie.name
+
+who	O-who
+is	O-is
+in	O-in
+the	O-the
+cast	O-cast
+of	O-of
+hitch	B-movie.name
+
+star	O-star
+of	O-of
+facts	B-movie.name
+of	I-movie.name
+life	I-movie.name
+
+show	O-show
+me	O-me
+movie	O-movie
+credits	O-credits
+
+who	O-who
+does	O-does
+the	O-the
+voices	O-voices
+for	O-for
+the	O-the
+movie	O-movie
+
+find	O-find
+movie	O-movie
+actors	O-actors
+
+show	O-show
+credits	O-credits
+-	O--
+forager	B-movie.name
+
+star	O-star
+of	O-of
+modern	B-movie.name
+family	I-movie.name
+
+look	O-look
+up	O-up
+information	O-information
+about	O-about
+the	O-the
+cast	O-cast
+crew	O-crew
+of	O-of
+go	B-movie.name
+
+find	O-find
+information	O-information
+about	O-about
+the	O-the
+cast	O-cast
+and	O-and
+crew	O-crew
+of	O-of
+go	B-movie.name
+
+who	O-who
+was	O-was
+in	O-in
+the	O-the
+cast	O-cast
+of	O-of
+go	B-movie.name
+
+can	O-can
+you	O-you
+find	O-find
+the	O-the
+lead	O-lead
+actor	O-actor
+in	O-in
+pretty	B-movie.name
+women	I-movie.name
+
+what	O-what
+are	O-are
+the	O-the
+actors	O-actors
+names	O-names
+and	O-and
+parts	O-parts
+in	O-in
+finding	B-movie.name
+nemo	I-movie.name
+
+searching	O-searching
+for	O-for
+names	O-names
+of	O-of
+crew	O-crew
+members	O-members
+of	O-of
+appollo	B-movie.name
+thirteen	I-movie.name
+
+budget	O-budget
+for	O-for
+dark	B-movie.name
+knight	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+the	B-movie.name
+godfather	I-movie.name
+
+budget	O-budget
+for	O-for
+twilight	B-movie.name
+
+please	O-please
+look	O-look
+up	O-up
+the	O-the
+budget	O-budget
+of	O-of
+step	B-movie.name
+up	I-movie.name
+
+budget	O-budget
+for	O-for
+titanic	B-movie.name
+the	O-the
+movie	O-movie
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+the	O-the
+movie	O-movie
+titanic	B-movie.name
+
+budget	O-budget
+for	O-for
+iron	B-movie.name
+man	I-movie.name
+2	I-movie.name
+
+please	O-please
+tell	O-tell
+me	O-me
+how	O-how
+much	O-much
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+avatar	B-movie.name
+
+how	O-how
+much	O-much
+money	O-money
+did	O-did
+they	O-they
+spend	O-spend
+to	O-to
+make	O-make
+avatar	B-movie.name
+
+avatar	B-movie.name
+'s	O-'s
+budget	O-budget
+
+how	O-how
+much	O-much
+did	O-did
+avatar	B-movie.name
+take	O-take
+in	O-in
+
+please	O-please
+show	O-show
+me	O-me
+what	O-what
+the	O-the
+budget	O-budget
+was	O-was
+for	O-for
+avatar	B-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+the	O-the
+avatar	B-movie.name
+movie	O-movie
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+the	O-the
+budget	O-budget
+of	O-of
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+total	O-total
+budget	O-budget
+for	O-for
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+batman	B-movie.name
+begins	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+the	B-movie.name
+avengers	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+gone	B-movie.name
+with	I-movie.name
+the	I-movie.name
+wind	I-movie.name
+
+what	O-what
+was	O-was
+spent	O-spent
+on	O-on
+my	B-movie.name
+big	I-movie.name
+fat	I-movie.name
+greek	I-movie.name
+wedding	I-movie.name
+
+what	O-what
+was	O-was
+pretty	B-movie.name
+woman	I-movie.name
+'s	O-'s
+budget	O-budget
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+spaceballs	B-movie.name
+
+how	O-how
+many	O-many
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+been	O-been
+the	O-the
+lead	O-lead
+actor	O-actor
+in	O-in
+
+how	O-how
+many	O-many
+star	B-movie.name
+wars	I-movie.name
+movies	O-movies
+are	O-are
+there	O-there
+
+how	O-how
+many	O-many
+movies	O-movies
+are	O-are
+rated	O-rated
+g	B-rating.name
+
+country.name	B-country.name
+has	O-has
+how	O-how
+many	O-many
+movies	O-movies
+
+how	O-how
+many	O-many
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+in	O-in
+
+how	O-how
+many	O-many
+movies	O-movies
+has	O-has
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+how	O-how
+many	O-many
+movies	O-movies
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+
+how	O-how
+many	O-many
+movies	O-movies
+has	O-has
+paramount	B-producer.name
+done	O-done
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+country	O-country
+from	O-from
+where	O-where
+the	O-the
+movie	O-movie
+kati	B-movie.name
+patang	I-movie.name
+comes	O-comes
+
+what	O-what
+country	O-country
+is	O-is
+bullhead	B-movie.name
+
+what	O-what
+country	O-country
+made	O-made
+black	B-movie.name
+swan	I-movie.name
+
+what	O-what
+country	O-country
+was	O-was
+black	B-movie.name
+swan	I-movie.name
+from	O-from
+
+what	O-what
+country	O-country
+was	O-was
+the	O-the
+movie	O-movie
+made	O-made
+
+what	O-what
+country	O-country
+did	O-did
+deep	B-movie.name
+blue	I-movie.name
+sea	I-movie.name
+come	O-come
+from	O-from
+
+origin	O-origin
+of	O-of
+titanic	B-movie.name
+
+origin	O-origin
+of	O-of
+king	B-movie.name
+lear	I-movie.name
+
+when	O-when
+will	O-will
+top	B-movie.name
+gun	I-movie.name
+be	O-be
+released	O-released
+
+release	O-release
+year	O-year
+and	O-and
+date	O-date
+for	O-for
+casino	B-movie.name
+
+when	O-when
+did	O-did
+person.name	B-actor.name
+person.name	I-actor.name
+begin	O-begin
+acting	O-acting
+
+show	O-show
+me	O-me
+when	O-when
+24	B-movie.name
+will	O-will
+be	O-be
+released	O-released
+
+can	O-can
+i	O-i
+have	O-have
+release	O-release
+date	O-date
+of	O-of
+movie	O-movie
+
+movie	O-movie
+'s	O-'s
+release	O-release
+date	O-date
+
+show	O-show
+me	O-me
+when	O-when
+the	O-the
+movie	O-movie
+was	O-was
+made	O-made
+
+when	O-when
+the	O-the
+movie	O-movie
+titanic	B-movie.name
+was	O-was
+released	O-released
+
+what	O-what
+year	O-year
+did	O-did
+the	O-the
+country.name	B-country.name
+movie	O-movie
+roman	B-movie.name
+holiday	I-movie.name
+come	O-come
+out	O-out
+
+can	O-can
+you	O-you
+please	O-please
+search	O-search
+for	O-for
+release	O-release
+date	O-date
+for	O-for
+karate	B-movie.name
+kid	I-movie.name
+
+karate	B-movie.name
+kid	I-movie.name
+release	O-release
+date	O-date
+please	O-please
+
+when	O-when
+was	O-was
+dirty	B-movie.name
+dancing	I-movie.name
+released	O-released
+
+when	O-when
+was	O-was
+spaceballs	B-movie.name
+released	O-released
+
+when	O-when
+was	O-was
+batman	B-movie.name
+released	O-released
+
+when	O-when
+was	O-was
+pretty	B-movie.name
+woman	I-movie.name
+released	O-released
+
+when	O-when
+was	O-was
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+released	O-released
+
+when	O-when
+did	O-did
+person.name	B-actor.name
+person.name	I-actor.name
+start	O-start
+acting	O-acting
+
+when	O-when
+is	O-is
+possessed	B-movie.name
+going	O-going
+to	O-to
+be	O-be
+released	O-released
+
+when	O-when
+was	O-was
+resident	B-movie.name
+evil	I-movie.name
+released	O-released
+
+release	O-release
+date	O-date
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+when	O-when
+was	O-was
+finding	B-movie.name
+nemo	I-movie.name
+released	O-released
+
+release	O-release
+date	O-date
+of	O-of
+hum	B-movie.name
+tum	I-movie.name
+
+when	O-when
+was	O-was
+freedom	B-movie.name
+writers	I-movie.name
+released	O-released
+
+when	O-when
+was	O-was
+avatar	B-movie.name
+released	O-released
+
+when	O-when
+did	O-did
+avatar	B-movie.name
+released	O-released
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+the	O-the
+release	O-release
+date	O-date
+of	O-of
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+when	O-when
+was	O-was
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+released	O-released
+
+when	O-when
+was	O-was
+date	B-movie.name
+night	I-movie.name
+released	O-released
+
+when	O-when
+did	O-did
+black	B-movie.name
+swan	I-movie.name
+come	O-come
+out	O-out
+
+when	O-when
+did	O-did
+avergers	B-movie.name
+come	O-come
+out	O-out
+
+what	O-what
+date	O-date
+did	O-did
+the	B-movie.name
+amazing	I-movie.name
+spiderman	I-movie.name
+show	O-show
+for	O-for
+the	O-the
+1st	O-1st
+time	O-time
+
+what	O-what
+is	O-is
+the	O-the
+release	O-release
+date	O-date
+of	O-of
+vulgaria	B-movie.name
+
+when	O-when
+the	O-the
+movie	O-movie
+the	B-movie.name
+godfather	I-movie.name
+was	O-was
+released	O-released
+
+when	O-when
+does	O-does
+looper	B-movie.name
+come	O-come
+out	O-out
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+the	O-the
+release	O-release
+date	O-date
+of	O-of
+the	O-the
+movie	O-movie
+barfi	B-movie.name
+
+what	O-what
+date	O-date
+did	O-did
+the	O-the
+movie	O-movie
+heroine	B-movie.name
+come	O-come
+out	O-out
+
+when	O-when
+did	O-did
+the	O-the
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+hit	O-hit
+theaters	O-theaters
+
+what	O-what
+day	O-day
+is	O-is
+fun	B-movie.name
+size	I-movie.name
+coming	O-coming
+out	O-out
+
+what	O-what
+day	O-day
+will	O-will
+django	B-movie.name
+unchained	I-movie.name
+come	O-come
+out	O-out
+
+when	O-when
+will	O-will
+i	O-i
+be	O-be
+able	O-able
+to	O-to
+view	O-view
+iron	B-movie.name
+man	I-movie.name
+3	I-movie.name
+
+on	O-on
+what	O-what
+date	O-date
+will	O-will
+iron	B-movie.name
+man	I-movie.name
+3	I-movie.name
+be	O-be
+released	O-released
+
+who	O-who
+directed	O-directed
+gone	B-movie.name
+with	I-movie.name
+the	I-movie.name
+wind	I-movie.name
+
+who	O-who
+was	O-was
+the	O-the
+director	O-director
+for	O-for
+black	B-movie.name
+swan	I-movie.name
+
+tell	O-tell
+me	O-me
+the	O-the
+directed	O-directed
+of	O-of
+black	B-movie.name
+swan	I-movie.name
+
+who	O-who
+is	O-is
+the	O-the
+director	O-director
+of	O-of
+sleepless	B-movie.name
+in	I-movie.name
+seattle	I-movie.name
+
+find	O-find
+who	O-who
+the	O-the
+director	O-director
+was	O-was
+in	O-in
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+
+locate	O-locate
+the	O-the
+director	O-director
+who	O-who
+created	O-created
+the	O-the
+movie	O-movie
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+
+director	O-director
+of	O-of
+titanic	B-movie.name
+
+titanic	B-movie.name
+director	O-director
+
+avengers	B-movie.name
+movie	O-movie
+director	O-director
+
+dirctor	O-dirctor
+of	O-of
+movie	O-movie
+avengers	B-movie.name
+
+who	O-who
+was	O-was
+the	O-the
+director	O-director
+for	O-for
+nacho	B-movie.name
+libre	I-movie.name
+
+director	O-director
+for	O-for
+big	B-movie.name
+
+who	O-who
+was	O-was
+the	O-the
+director	O-director
+of	O-of
+welcome	B-movie.name
+to	I-movie.name
+the	I-movie.name
+dollhouse	I-movie.name
+
+who	O-who
+directed	O-directed
+the	O-the
+movie	O-movie
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+at	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+who	O-who
+was	O-was
+the	O-the
+director	O-director
+of	O-of
+the	O-the
+movie	O-movie
+toy	B-movie.name
+story	I-movie.name
+
+list	O-list
+director	O-director
+gilda	B-movie.name
+
+who	O-who
+directed	O-directed
+field	B-movie.name
+of	I-movie.name
+dreams	I-movie.name
+
+who	O-who
+is	O-is
+the	O-the
+second	O-second
+director	O-director
+on	O-on
+finding	B-movie.name
+nemo	I-movie.name
+
+find	O-find
+director	O-director
+of	O-of
+finding	B-movie.name
+nemo	I-movie.name
+
+who	O-who
+directed	O-directed
+finding	B-movie.name
+nemo	I-movie.name
+
+finding	B-movie.name
+nemo	I-movie.name
+directed	O-directed
+by	O-by
+who	O-who
+
+director	O-director
+of	O-of
+finding	B-movie.name
+nemo	I-movie.name
+
+who	O-who
+directed	O-directed
+hitch	B-movie.name
+
+i	O-i
+want	O-want
+to	O-to
+know	O-know
+who	O-who
+is	O-is
+the	O-the
+director	O-director
+of	O-of
+the	O-the
+movie	O-movie
+batman	B-movie.name
+
+who	O-who
+is	O-is
+director	O-director
+of	O-of
+the	B-movie.name
+words	I-movie.name
+
+who	O-who
+directed	O-directed
+million	B-movie.name
+dollar	I-movie.name
+baby	I-movie.name
+
+who	O-who
+was	O-was
+the	O-the
+guy	O-guy
+that	O-that
+directed	O-directed
+moneyball	B-movie.name
+
+who	O-who
+did	O-did
+twilight	B-movie.name
+
+twilight	B-movie.name
+director	O-director
+
+who	O-who
+directed	O-directed
+twilight	B-movie.name
+
+who	O-who
+directed	O-directed
+twilight	B-movie.name
+
+who	O-who
+is	O-is
+the	O-the
+director	O-director
+of	O-of
+hum	B-movie.name
+tum	I-movie.name
+
+look	O-look
+for	O-for
+the	O-the
+director	O-director
+of	O-of
+step	B-movie.name
+up	I-movie.name
+
+please	O-please
+find	O-find
+the	O-the
+director	O-director
+of	O-of
+freedom	B-movie.name
+writers	I-movie.name
+
+find	O-find
+the	O-the
+director	O-director
+of	O-of
+freedom	B-movie.name
+writers	I-movie.name
+
+look	O-look
+up	O-up
+the	O-the
+director	O-director
+of	O-of
+freedom	B-movie.name
+writers	I-movie.name
+
+find	O-find
+the	O-the
+director	O-director
+of	O-of
+freedom	B-movie.name
+writers	I-movie.name
+
+who	O-who
+directed	O-directed
+baby	B-movie.name
+mama	I-movie.name
+
+godfather	B-movie.name
+director	O-director
+
+show	O-show
+me	O-me
+who	O-who
+directed	O-directed
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+
+who	O-who
+directed	O-directed
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+
+who	O-who
+directed	O-directed
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+
+find	O-find
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+director	O-director
+of	O-of
+return	B-movie.name
+
+show	O-show
+movie	O-movie
+avengers	B-movie.name
+director	O-director
+name	O-name
+
+name	O-name
+the	O-the
+director	O-director
+in	O-in
+sleepless	B-movie.name
+in	I-movie.name
+seattle	I-movie.name
+
+what	O-what
+'s	O-'s
+the	O-the
+genre	O-genre
+for	O-for
+black	B-movie.name
+swan	I-movie.name
+
+what	O-what
+is	O-is
+black	B-movie.name
+swan	B-movie.name
+'s	O-'s
+genre	O-genre
+
+what	O-what
+genre	O-genre
+is	O-is
+parenthood	B-movie.name
+
+what	O-what
+kind	O-kind
+of	O-of
+movie	O-movie
+is	O-is
+parenthood	B-movie.name
+
+genre	O-genre
+for	O-for
+pride	B-movie.name
+and	I-movie.name
+prejudice	I-movie.name
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+the	O-the
+genre	O-genre
+of	O-of
+the	O-the
+movie	O-movie
+lawless	B-movie.name
+
+show	O-show
+me	O-me
+what	O-what
+genre	O-genre
+does	O-does
+movie	O-movie
+lawless	B-movie.name
+belongs	O-belongs
+to	O-to
+
+genre	O-genre
+for	O-for
+snow	B-movie.name
+white	I-movie.name
+and	I-movie.name
+the	I-movie.name
+huntsman	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+movie	O-movie
+type	O-type
+
+what	O-what
+'s	O-'s
+the	O-the
+genre	O-genre
+of	O-of
+rushmore	B-movie.name
+
+get	O-get
+the	O-the
+genre	O-genre
+of	O-of
+welcome	B-movie.name
+to	I-movie.name
+the	I-movie.name
+dollhouse	I-movie.name
+
+i	O-i
+want	O-want
+to	O-to
+find	O-find
+the	O-the
+genre	O-genre
+freedom	B-movie.name
+writers	I-movie.name
+is	O-is
+in	O-in
+
+what	O-what
+genre	O-genre
+is	O-is
+freedom	B-movie.name
+writers	I-movie.name
+in	O-in
+
+genre	O-genre
+for	O-for
+batman	B-movie.name
+
+give	O-give
+me	O-me
+the	O-the
+genre	O-genre
+of	O-of
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+the	O-the
+genre	O-genre
+of	O-of
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+genre	O-genre
+for	O-for
+bad	B-movie.name
+teacher	I-movie.name
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+pretty	B-movie.name
+girl	I-movie.name
+the	O-the
+movie	O-movie
+'s	O-'s
+genre	O-genre
+
+what	O-what
+genre	O-genre
+is	O-is
+the	O-the
+movie	O-movie
+pitch	B-movie.name
+perfect	I-movie.name
+
+in	O-in
+what	O-what
+language	O-language
+is	O-is
+this	O-this
+movie	O-movie
+
+what	O-what
+language	O-language
+is	O-is
+this	O-this
+movie	O-movie
+
+what	O-what
+language	O-language
+is	O-is
+the	O-the
+movie	O-movie
+hero	B-movie.name
+in	O-in
+
+language	O-language
+of	O-of
+king	B-movie.name
+lear	I-movie.name
+
+language	O-language
+of	O-of
+casa	B-movie.name
+blanca	I-movie.name
+
+what	O-what
+language	O-language
+is	O-is
+head	B-movie.name
+on	I-movie.name
+in	O-in
+
+language	O-language
+of	O-of
+spanglish	B-movie.name
+
+find	O-find
+out	O-out
+what	O-what
+language	O-language
+the	B-movie.name
+father	I-movie.name
+of	I-movie.name
+my	I-movie.name
+children	I-movie.name
+is	O-is
+in	O-in
+
+i	O-i
+am	O-am
+intersted	O-intersted
+in	O-in
+viewing	O-viewing
+belle	B-movie.name
+what	O-what
+foreign	O-foreign
+language	O-language
+is	O-is
+the	O-the
+movie	O-movie
+available	O-available
+in	O-in
+
+i	O-i
+need	O-need
+to	O-to
+find	O-find
+out	O-out
+about	O-about
+names	O-names
+of	O-of
+some	O-some
+japanese	B-movie.language
+movies	O-movies
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+names	O-names
+of	O-of
+some	O-some
+japanese	B-movie.language
+movies	O-movies
+
+ron	B-producer.name
+howard	I-producer.name
+name	O-name
+some	O-some
+of	O-of
+the	O-the
+movies	O-movies
+he	O-he
+produce	O-produce
+
+tell	O-tell
+me	O-me
+the	O-the
+names	O-names
+of	O-of
+the	O-the
+movies	O-movies
+produced	O-produced
+by	O-by
+william	B-producer.name
+packer	I-producer.name
+
+about	O-about
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+show	O-show
+me	O-me
+info	O-info
+on	O-on
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+find	O-find
+old	O-old
+movies	O-movies
+
+find	O-find
+movie	O-movie
+ratings	O-ratings
+
+find	O-find
+newly	O-newly
+released	O-released
+movies	O-movies
+in	O-in
+spanish	B-movie.language
+
+was	O-was
+person.name	B-actor.name
+person.name	I-actor.name
+in	O-in
+the	O-the
+movie	O-movie
+apollo	B-movie.name
+thirteen	I-movie.name
+
+was	O-was
+person.name	B-actor.name
+person.name	I-actor.name
+in	O-in
+the	O-the
+movie	O-movie
+apollo	B-movie.name
+thirteen	I-movie.name
+
+find	O-find
+movies	O-movies
+about	O-about
+dancing	B-movie.subject
+
+search	O-search
+for	O-for
+movies	O-movies
+about	O-about
+dancing	B-movie.subject
+
+show	O-show
+person.name	B-actor.name
+person.name	I-actor.name
+films	O-films
+
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+appeared	O-appeared
+in	O-in
+
+find	O-find
+russian	B-movie.language
+movies	O-movies
+
+show	O-show
+me	O-me
+the	O-the
+movie	O-movie
+pretty	B-movie.name
+women	B-movie.name
+so	O-so
+i	O-i
+can	O-can
+see	O-see
+who	O-who
+starred	O-starred
+in	O-in
+the	O-the
+movie	O-movie
+
+feral	B-movie.name
+
+the	O-the
+movie	O-movie
+is	O-is
+called	O-called
+big	B-movie.name
+
+person.name	B-actor.name
+person.name	I-actor.name
+acting	O-acting
+carrer	O-carrer
+
+how	O-how
+many	O-many
+movies	O-movies
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+do	O-do
+
+movies	O-movies
+and	O-and
+gross	O-gross
+payment	O-payment
+
+search	O-search
+for	O-for
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+in	O-in
+french	B-movie.language
+
+exhibit	O-exhibit
+all	O-all
+details	O-details
+of	O-of
+original	O-original
+finding	B-movie.name
+nemo	I-movie.name
+movie	O-movie
+
+finding	B-movie.name
+nemo	I-movie.name
+movie	O-movie
+
+find	O-find
+the	O-the
+movie	O-movie
+finding	B-movie.name
+nemo	I-movie.name
+
+i	O-i
+am	O-am
+looking	O-looking
+for	O-for
+information	O-information
+on	O-on
+the	O-the
+movie	O-movie
+finding	B-movie.name
+nemo	I-movie.name
+
+show	O-show
+me	O-me
+details	O-details
+for	O-for
+the	O-the
+movie	O-movie
+finding	B-movie.name
+nemo	I-movie.name
+
+what	O-what
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+
+show	O-show
+me	O-me
+some	O-some
+other	O-other
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+display	O-display
+person.name	B-actor.name
+person.name	I-actor.name
+movie	O-movie
+
+show	O-show
+a	O-a
+movie	O-movie
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+in	O-in
+the	O-the
+cast	O-cast
+
+what	O-what
+other	O-other
+films	O-films
+has	O-has
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+what	O-what
+movies	O-movies
+has	O-has
+george	B-producer.name
+harrison	I-producer.name
+produced	O-produced
+
+what	O-what
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+in	O-in
+
+please	O-please
+find	O-find
+the	O-the
+movies	O-movies
+in	O-in
+which	O-which
+person.name	B-actor.name
+person.name	I-actor.name
+has	O-has
+appeared	O-appeared
+
+in	O-in
+which	O-which
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+appear	O-appear
+
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+what	O-what
+movie	O-movie
+
+search	O-search
+for	O-for
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+movie	O-movie
+release	O-release
+dates	O-dates
+
+director	O-director
+information	O-information
+for	O-for
+movies	O-movies
+
+movies	O-movies
+by	O-by
+director	O-director
+
+please	O-please
+list	O-list
+all	O-all
+movies	O-movies
+not	O-not
+rated	O-rated
+pg	B-rating.name
+
+find	O-find
+movies	O-movies
+
+i	O-i
+want	O-want
+a	O-a
+list	O-list
+of	O-of
+english	B-movie.language
+speaking	O-speaking
+movies	O-movies
+
+a	O-a
+list	O-list
+of	O-of
+movies	O-movies
+made	O-made
+in	O-in
+country.name	B-country.name
+
+are	O-are
+there	O-there
+any	O-any
+movies	O-movies
+produced	O-produced
+in	O-in
+country.name	B-country.name
+country.name	B-country.name
+country.name	I-country.name
+
+show	O-show
+english	B-movie.language
+movies	O-movies
+
+search	O-search
+english	B-movie.language
+movies	O-movies
+
+comedy	B-movie.genre
+
+find	O-find
+a	O-a
+comedy	B-movie.genre
+
+watch	O-watch
+comedy	B-movie.genre
+movies	O-movies
+
+get	O-get
+horror	B-movie.genre
+films	O-films
+
+show	O-show
+me	O-me
+horror	B-movie.genre
+movies	O-movies
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+a	O-a
+listing	O-listing
+of	O-of
+horror	B-movie.genre
+movies	O-movies
+
+show	O-show
+actor	O-actor
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+which	O-which
+movies	O-movies
+did	O-did
+person.name	B-actor.name
+person.name	I-actor.name
+star	O-star
+in	O-in
+
+list	O-list
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+show	O-show
+me	O-me
+movies	O-movies
+made	O-made
+in	O-in
+country.name	B-country.name
+
+can	O-can
+i	O-i
+watch	O-watch
+a	O-a
+country.name	B-country.name
+film	O-film
+
+see	O-see
+country.name	B-country.name
+movies	O-movies
+
+search	O-search
+for	O-for
+information	O-information
+about	O-about
+country.name	B-country.name
+movies	O-movies
+
+I	O-I
+'d	O-'d
+like	O-like
+to	O-to
+see	O-see
+some	O-some
+country.name	B-country.name
+films	O-films
+
+show	O-show
+me	O-me
+something	O-something
+country.name	B-country.name
+-	O--
+made	O-made
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+a	O-a
+movie	O-movie
+from	O-from
+country.name	B-country.name
+
+find	O-find
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+country.name	B-country.name
+country	O-country
+movies	O-movies
+
+display	O-display
+a	O-a
+list	O-list
+of	O-of
+country.name	B-country.name
+films	O-films
+
+country.name	B-country.name
+movie	O-movie
+listing	O-listing
+
+country.name	B-country.name
+movies	O-movies
+
+find	O-find
+actors	O-actors
+in	O-in
+movies	O-movies
+
+search	O-search
+by	O-by
+actors	O-actors
+
+find	O-find
+some	O-some
+romantic	B-movie.genre
+movies	O-movies
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+a	O-a
+movie	O-movie
+in	O-in
+french	B-movie.language
+
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+find	O-find
+movies	O-movies
+with	O-with
+person.name	B-director.name
+person.name	I-director.name
+as	O-as
+director	O-director
+
+country.name	B-country.name
+movies	O-movies
+
+country.name	B-country.name
+movies	O-movies
+please	O-please
+
+find	O-find
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+show	O-show
+me	O-me
+what	O-what
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+get	O-get
+films	O-films
+in	O-in
+hindi	B-movie.language
+
+show	O-show
+me	O-me
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+what	O-what
+is	O-is
+a	O-a
+country.name	B-country.name
+horror	B-movie.genre
+movie	O-movie
+
+i	O-i
+want	O-want
+to	O-to
+watch	O-watch
+an	O-an
+r	B-rating.name
+rated	O-rated
+comedy	B-movie.genre
+
+list	O-list
+of	O-of
+french	B-movie.language
+language	I-movie.language
+comedies	B-movie.genre
+
+look	O-look
+for	O-for
+dirty	B-movie.name
+dancing	I-movie.name
+movie	O-movie
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+tell	O-tell
+me	O-me
+in	O-in
+detail	O-detail
+about	O-about
+the	O-the
+movie	O-movie
+dirty	B-movie.name
+dancing	I-movie.name
+
+tell	O-tell
+about	O-about
+movie	O-movie
+dirty	B-movie.name
+dancing	I-movie.name
+
+can	O-can
+i	O-i
+see	O-see
+a	O-a
+list	O-list
+of	O-of
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+list	O-list
+of	O-of
+movies	O-movies
+starring	O-starring
+person.name	B-actor.name
+person.name	I-actor.name
+
+show	O-show
+me	O-me
+all	O-all
+of	O-of
+person.name	B-actor.name
+person.name	I-actor.name
+'s	O-'s
+movies	O-movies
+
+what	O-what
+movies	O-movies
+has	O-has
+sandra	B-producer.name
+bullock	I-producer.name
+produced	O-produced
+
+find	O-find
+me	O-me
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+been	O-been
+in	O-in
+
+dirty	B-movie.name
+dancing	I-movie.name
+info	O-info
+
+dirty	B-movie.name
+dancing	I-movie.name
+
+give	O-give
+a	O-a
+short	O-short
+bio	O-bio
+for	O-for
+dirty	B-movie.name
+dancing	I-movie.name
+
+about	O-about
+dirty	B-movie.name
+dancing	I-movie.name
+
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+show	O-show
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+list	O-list
+japanese	B-movie.language
+movies	O-movies
+
+show	O-show
+me	O-me
+japanese	B-movie.language
+movies	O-movies
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+some	O-some
+japanese	B-movie.language
+movies	O-movies
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+japanese	B-movie.language
+movies	O-movies
+
+japanese	B-movie.language
+movies	O-movies
+
+show	O-show
+me	O-me
+japanese	B-movie.language
+language	I-movie.language
+movies	O-movies
+
+which	O-which
+films	O-films
+are	O-are
+spoken	O-spoken
+in	O-in
+japanese	B-movie.language
+
+miramax	B-producer.name
+films	I-producer.name
+only	O-only
+
+show	O-show
+movies	O-movies
+by	O-by
+miramax	B-producer.name
+
+search	O-search
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+watch	O-watch
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+find	O-find
+movies	O-movies
+about	O-about
+vampires	B-movie.subject
+
+find	O-find
+movies	O-movies
+having	O-having
+vampires	B-movie.subject
+
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+cars	B-movie.name
+movie	O-movie
+
+what	O-what
+movies	O-movies
+did	O-did
+darla	B-producer.name
+anderson	I-producer.name
+produce	O-produce
+
+what	O-what
+films	O-films
+are	O-are
+made	O-made
+by	O-by
+paramount	B-producer.name
+
+show	O-show
+me	O-me
+movies	O-movies
+by	O-by
+paramount	B-producer.name
+
+what	O-what
+movies	O-movies
+has	O-has
+paramount	B-producer.name
+released	O-released
+
+show	O-show
+all	O-all
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+show	O-show
+me	O-me
+movies	O-movies
+produced	O-produced
+by	O-by
+bruce	B-producer.name
+lee	I-producer.name
+
+is	O-is
+parenthood	B-movie.name
+a	O-a
+drama	B-movie.genre
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+an	O-an
+person.name	B-actor.name
+person.name	I-actor.name
+film	O-film
+tonight	O-tonight
+
+find	O-find
+films	O-films
+from	O-from
+country.name	B-country.name
+
+get	O-get
+films	O-films
+from	O-from
+country.name	B-country.name
+
+i	O-i
+'d	O-'d
+like	O-like
+to	O-to
+watch	O-watch
+a	O-a
+movie	O-movie
+made	O-made
+in	O-in
+country.name	B-country.name
+
+list	O-list
+some	O-some
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+chinese	B-movie.language
+films	O-films
+
+show	O-show
+me	O-me
+other	O-other
+chinese	B-movie.language
+movies	O-movies
+
+show	O-show
+me	O-me
+chinese	B-movie.language
+movies	O-movies
+
+what	O-what
+movies	O-movies
+have	O-have
+a	O-a
+pg-13	B-rating.name
+rating	O-rating
+
+please	O-please
+list	O-list
+movies	O-movies
+that	O-that
+are	O-are
+rated	O-rated
+pg-13	B-rating.name
+
+i	O-i
+need	O-need
+a	O-a
+g	B-rating.name
+rating	O-rating
+so	O-so
+i	O-i
+can	O-can
+take	O-take
+the	O-the
+kids	O-kids
+
+find	O-find
+a	O-a
+g	B-rating.name
+rated	O-rated
+movie	O-movie
+
+find	O-find
+g	B-rating.name
+movies	O-movies
+
+find	O-find
+g	B-rating.name
+movies	O-movies
+
+i	O-i
+want	O-want
+rated	O-rated
+g	B-rating.name
+movies	O-movies
+
+look	O-look
+up	O-up
+g	B-rating.name
+rated	O-rated
+movies	O-movies
+
+i	O-i
+am	O-am
+searching	O-searching
+for	O-for
+any	O-any
+g	B-rating.name
+rated	O-rated
+movies	O-movies
+for	O-for
+my	O-my
+children	O-children
+to	O-to
+view	O-view
+
+rated	O-rated
+g	B-rating.name
+movies	O-movies
+for	O-for
+family	O-family
+watching	O-watching
+
+find	O-find
+g	B-rating.name
+rated	O-rated
+movies	O-movies
+
+are	O-are
+there	O-there
+any	O-any
+movies	O-movies
+rated	O-rated
+g	B-rating.name
+playing	O-playing
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+movies	O-movies
+rated	O-rated
+g	B-rating.name
+
+find	O-find
+movies	O-movies
+rated	O-rated
+g	B-rating.name
+
+show	O-show
+me	O-me
+movies	O-movies
+with	O-with
+g	B-rating.name
+rating	O-rating
+
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+any	O-any
+other	O-other
+musicals	O-musicals
+
+bruce	B-producer.name
+lee	I-producer.name
+produced	O-produced
+movie	O-movie
+listing	O-listing
+
+what	O-what
+was	O-was
+the	O-the
+last	O-last
+movie	O-movie
+made	O-made
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+find	O-find
+movies	O-movies
+produced	O-produced
+by	O-by
+mgm	B-producer.name
+
+show	O-show
+me	O-me
+country.name	B-country.name
+made	O-made
+movies	O-movies
+
+movies	O-movies
+from	O-from
+country.name	B-country.name
+country.name	I-country.name
+
+find	O-find
+me	O-me
+movies	O-movies
+from	O-from
+country.name	B-country.name
+country.name	I-country.name
+
+can	O-can
+you	O-you
+list	O-list
+ron	B-producer.name
+howard	I-producer.name
+movie	O-movie
+production	O-production
+
+i	O-i
+need	O-need
+to	O-to
+know	O-know
+the	O-the
+movies	O-movies
+produce	O-produce
+by	O-by
+ron	B-producer.name
+howard	I-producer.name
+
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+any	O-any
+other	O-other
+movies	O-movies
+besides	O-besides
+million	B-movie.name
+dollar	I-movie.name
+baby	I-movie.name
+
+find	O-find
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+what	O-what
+movies	O-movies
+have	O-have
+been	O-been
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+list	O-list
+all	O-all
+movies	O-movies
+that	O-that
+were	O-were
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+show	O-show
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+find	O-find
+all	O-all
+films	O-films
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+i	O-i
+want	O-want
+to	O-to
+select	O-select
+the	O-the
+option	O-option
+to	O-to
+search	O-search
+for	O-for
+movies	O-movies
+produced	O-produced
+by	O-by
+stephen	B-producer.name
+spielberg	I-producer.name
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+search	O-search
+for	O-for
+movies	O-movies
+produced	O-produced
+by	O-by
+stephen	B-producer.name
+speilberg	I-producer.name
+
+show	O-show
+me	O-me
+japanese	B-movie.language
+horror	B-movie.genre
+movies	O-movies
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+see	O-see
+movies	O-movies
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+movies	O-movies
+by	O-by
+stephen	B-producer.name
+person.name	I-director.name
+
+movies	O-movies
+by	O-by
+stephen	B-producer.name
+person.name	I-director.name
+
+what	O-what
+movies	O-movies
+did	O-did
+stephen	B-producer.name
+person.name	I-director.name
+direct	O-direct
+
+list	O-list
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+
+person.name	B-director.name
+person.name	I-director.name
+movie	O-movie
+
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+please	O-please
+
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+find	O-find
+the	O-the
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+
+find	O-find
+movies	O-movies
+from	O-from
+person.name	B-director.name
+person.name	I-director.name
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+watch	O-watch
+a	O-a
+movie	O-movie
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+the	B-movie.name
+camp	I-movie.name
+
+watch	O-watch
+person.name	B-actor.name
+person.name	I-actor.name
+the	B-movie.name
+blind	I-movie.name
+side	I-movie.name
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+list	O-list
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+look	O-look
+for	O-for
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+can	O-can
+you	O-you
+show	O-show
+me	O-me
+movies	O-movies
+that	O-that
+were	O-were
+made	O-made
+in	O-in
+country.name	B-country.name
+
+find	O-find
+me	O-me
+any	O-any
+movies	O-movies
+that	O-that
+were	O-were
+made	O-made
+in	O-in
+country.name	B-country.name
+
+french	B-movie.language
+movies	O-movies
+please	O-please
+
+french	B-movie.language
+movies	O-movies
+
+find	O-find
+movies	O-movies
+produced	O-produced
+by	O-by
+
+movies	O-movies
+by	O-by
+producers	O-producers
+
+display	O-display
+movies	O-movies
+produced	O-produced
+by	O-by
+
+find	O-find
+movies	O-movies
+produced	O-produced
+by	O-by
+mosfilm	B-producer.name
+
+what	O-what
+was	O-was
+person.name	B-actor.name
+person.name	I-actor.name
+'s	O-'s
+first	O-first
+movie	O-movie
+
+get	O-get
+me	O-me
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+show	O-show
+me	O-me
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+i	O-i
+am	O-am
+trying	O-trying
+to	O-to
+find	O-find
+a	O-a
+list	O-list
+of	O-of
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+provide	O-provide
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+please	O-please
+
+i	O-i
+want	O-want
+to	O-to
+look	O-look
+for	O-for
+movies	O-movies
+produced	O-produced
+by	O-by
+albert	B-producer.name
+ruddy	I-producer.name
+
+what	O-what
+are	O-are
+all	O-all
+of	O-of
+the	O-the
+movies	O-movies
+produced	O-produced
+by	O-by
+albert	B-producer.name
+ruddy	I-producer.name
+
+movies	O-movies
+produced	O-produced
+by	O-by
+yash	B-producer.name
+chopra	I-producer.name
+
+what	O-what
+did	O-did
+brad	B-producer.name
+pitt	I-producer.name
+porduce	O-porduce
+
+bring	O-bring
+up	O-up
+all	O-all
+brad	B-producer.name
+pitt	I-producer.name
+produced	O-produced
+movies	O-movies
+
+show	O-show
+all	O-all
+movies	O-movies
+that	O-that
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+i	O-i
+need	O-need
+a	O-a
+list	O-list
+of	O-of
+all	O-all
+the	O-the
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+all	O-all
+the	O-the
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+james	B-producer.name
+cameron	I-producer.name
+movies	O-movies
+produced	O-produced
+
+movies	O-movies
+produced	O-produced
+by	O-by
+james	B-producer.name
+cameron	I-producer.name
+
+what	O-what
+films	O-films
+have	O-have
+been	O-been
+produced	O-produced
+by	O-by
+warner	B-producer.name
+bros.	I-producer.name
+
+find	O-find
+movies	O-movies
+produced	O-produced
+by	O-by
+warner	B-producer.name
+bros.	I-producer.name
+
+what	O-what
+movies	O-movies
+have	O-have
+been	O-been
+produced	O-produced
+by	O-by
+warner	B-producer.name
+bros.	I-producer.name
+
+show	O-show
+me	O-me
+movies	O-movies
+by	B-producer.name
+wb	O-wb
+
+give	O-give
+me	O-me
+information	O-information
+about	O-about
+finding	B-movie.name
+nemo	I-movie.name
+
+i	O-i
+want	O-want
+information	O-information
+about	O-about
+finding	B-movie.name
+nemo	I-movie.name
+
+show	O-show
+me	O-me
+finding	B-movie.name
+nemo	I-movie.name
+
+finding	B-movie.name
+nemo	I-movie.name
+bing	O-bing
+
+search	O-search
+finding	B-movie.name
+nemo	I-movie.name
+
+show	O-show
+information	O-information
+page	O-page
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+the	B-movie.name
+campaign	I-movie.name
+information	O-information
+
+more	O-more
+information	O-information
+on	O-on
+apallo	B-movie.name
+thirteen	I-movie.name
+
+research	O-research
+apollo	B-movie.name
+thirteen	I-movie.name
+
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+in	O-in
+movies	O-movies
+other	O-other
+than	O-than
+twilight	B-movie.name
+
+show	O-show
+me	O-me
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+in	O-in
+
+lionsgate	B-producer.name
+movies	O-movies
+
+show	O-show
+lionsgate	B-producer.name
+movies	O-movies
+
+show	O-show
+movies	O-movies
+made	O-made
+by	O-by
+production	O-production
+lionsgate	B-producer.name
+
+give	O-give
+me	O-me
+something	O-something
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+show	O-show
+person.name	B-director.name
+person.name	I-director.name
+movie	O-movie
+
+what	O-what
+film	O-film
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+
+which	O-which
+movies	O-movies
+have	O-have
+been	O-been
+made	O-made
+outside	O-outside
+country.name	B-country.name
+country.name	I-country.name
+country.name	I-country.name
+
+find	O-find
+me	O-me
+country.name	B-country.name
+movies	O-movies
+
+display	O-display
+7	B-producer.name
+arts	I-producer.name
+movies	O-movies
+
+korean	B-movie.language
+movie	O-movie
+
+what	O-what
+other	O-other
+movies	O-movies
+did	O-did
+person.name	B-actor.name
+person.name	I-actor.name
+star	O-star
+in	O-in
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+movies	O-movies
+starring	O-starring
+person.name	B-actor.name
+person.name	I-actor.name
+please	O-please
+
+list	O-list
+the	O-the
+person.name	B-actor.name
+'s	O-'s
+movie	O-movie
+
+i	O-i
+want	O-want
+to	O-to
+watch	O-watch
+a	O-a
+drama	B-movie.genre
+made	O-made
+in	O-in
+country.name	B-country.name
+
+person.name	B-actor.name
+person.name	I-actor.name
+played	O-played
+in	O-in
+what	O-what
+movies	O-movies
+
+show	O-show
+me	O-me
+all	O-all
+of	O-of
+the	O-the
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+show	O-show
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+
+want	O-want
+to	O-to
+see	O-see
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+what	O-what
+movies	O-movies
+have	O-have
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+where	O-where
+can	O-can
+i	O-i
+find	O-find
+a	O-a
+list	O-list
+of	O-of
+movies	O-movies
+produced	O-produced
+by	O-by
+chris	B-producer.name
+nolan	I-producer.name
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+been	O-been
+in	O-in
+
+what	O-what
+are	O-are
+the	O-the
+movies	O-movies
+person.name	B-actor.name
+person.name	I-actor.name
+had	O-had
+been	O-been
+in	O-in
+
+what	O-what
+are	O-are
+some	O-some
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+find	O-find
+an	O-an
+r	B-rating.name
+rated	O-rated
+movie	O-movie
+
+show	O-show
+me	O-me
+r	B-rating.name
+rated	O-rated
+movies	O-movies
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+r	B-rating.name
+rated	O-rated
+movies	O-movies
+
+look	O-look
+up	O-up
+r	B-rating.name
+rated	O-rated
+movies	O-movies
+
+i	O-i
+want	O-want
+only	O-only
+r	B-rating.name
+rated	O-rated
+movies	O-movies
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+a	O-a
+list	O-list
+of	O-of
+rated	O-rated
+r	B-rating.name
+movies	O-movies
+
+show	O-show
+me	O-me
+only	O-only
+movies	O-movies
+with	O-with
+a	O-a
+rating	O-rating
+of	O-of
+r	B-rating.name
+
+please	O-please
+look	O-look
+for	O-for
+movies	O-movies
+with	O-with
+an	O-an
+r	B-rating.name
+rating	O-rating
+
+show	O-show
+me	O-me
+movies	O-movies
+rated	O-rated
+r	B-rating.name
+
+look	O-look
+for	O-for
+movies	O-movies
+with	O-with
+an	O-an
+r	B-rating.name
+rating	O-rating
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+all	O-all
+movies	O-movies
+that	O-that
+are	O-are
+rated	O-rated
+r	B-rating.name
+
+i	O-i
+want	O-want
+to	O-to
+watch	O-watch
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+can	O-can
+i	O-i
+have	O-have
+a	O-a
+list	O-list
+of	O-of
+spanish	B-movie.language
+speaking	O-speaking
+movies	O-movies
+
+show	O-show
+me	O-me
+movies	O-movies
+made	O-made
+in	O-in
+country.name	B-country.name
+
+show	O-show
+me	O-me
+the	O-the
+movie	O-movie
+pot	B-movie.name
+zombies	I-movie.name
+
+what	O-what
+movies	O-movies
+have	O-have
+zombies	B-movie.subject
+in	O-in
+them	O-them
+
+show	O-show
+me	O-me
+movies	O-movies
+about	O-about
+zombies	B-movie.subject
+
+show	O-show
+me	O-me
+movies	O-movies
+about	O-about
+zombies	B-movie.subject
+
+show	O-show
+me	O-me
+ones	O-ones
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+show	O-show
+person.name	B-director.name
+person.name	I-director.name
+'s	O-'s
+filmography	O-filmography
+
+find	O-find
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+
+can	O-can
+you	O-you
+show	O-show
+me	O-me
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+list	O-list
+german	B-movie.language
+movies	O-movies
+
+german	B-movie.language
+movies	O-movies
+
+find	O-find
+action	B-movie.genre
+films	O-films
+
+find	O-find
+some	O-some
+action	B-movie.genre
+movies	O-movies
+
+list	O-list
+dredd	B-movie.name
+movie	O-movie
+
+show	O-show
+me	O-me
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+
+find	O-find
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+produced	O-produced
+by	O-by
+
+please	O-please
+find	O-find
+movies	O-movies
+produced	O-produced
+by	O-by
+morgan	B-producer.name
+freeman	I-producer.name
+
+please	O-please
+look	O-look
+up	O-up
+movies	O-movies
+produced	O-produced
+by	O-by
+morgan	B-producer.name
+freeman	I-producer.name
+
+search	O-search
+for	O-for
+movies	O-movies
+produced	O-produced
+by	O-by
+morgan	B-producer.name
+freeman	I-producer.name
+
+find	O-find
+movies	O-movies
+produced	O-produced
+by	O-by
+morgan	B-producer.name
+freeman	I-producer.name
+
+look	O-look
+up	O-up
+movies	O-movies
+produced	O-produced
+by	O-by
+morgan	B-producer.name
+freeman	I-producer.name
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+in	O-in
+
+show	O-show
+me	O-me
+the	O-the
+movies	O-movies
+directed	O-directed
+by	O-by
+the	O-the
+director	O-director
+of	O-of
+this	O-this
+movie	O-movie
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+movies	O-movies
+made	O-made
+in	O-in
+country.name	B-country.name
+
+look	O-look
+up	O-up
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+movie	O-movie
+
+display	O-display
+all	O-all
+details	O-details
+about	O-about
+star	B-movie.name
+wars	I-movie.name
+-	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+movie	O-movie
+
+get	O-get
+all	O-all
+details	O-details
+about	O-about
+star	B-movie.name
+wars	I-movie.name
+-	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+movie	O-movie
+
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+
+i	O-i
+want	O-want
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+main	O-main
+page	O-page
+
+search	O-search
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+
+find	O-find
+me	O-me
+tons	O-tons
+of	O-of
+info	O-info
+related	O-related
+to	O-to
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+
+get	O-get
+details	O-details
+of	O-of
+in	B-movie.name
+july	I-movie.name
+movie	O-movie
+
+find	O-find
+details	O-details
+of	O-of
+in	B-movie.name
+july	I-movie.name
+movie	O-movie
+
+show	O-show
+details	O-details
+of	O-of
+in	B-movie.name
+july	I-movie.name
+movie	O-movie
+
+tell	O-tell
+me	O-me
+about	O-about
+in	B-movie.name
+july	I-movie.name
+movie	O-movie
+
+look	O-look
+up	O-up
+the	O-the
+movie	O-movie
+in	B-movie.name
+july	I-movie.name
+
+display	O-display
+information	O-information
+for	O-for
+the	O-the
+movie	O-movie
+title	O-title
+in	B-movie.name
+july	I-movie.name
+
+movie	O-movie
+in	B-movie.name
+july	I-movie.name
+data	O-data
+
+where	O-where
+can	O-can
+i	O-i
+find	O-find
+the	O-the
+movie	O-movie
+aankhen	B-movie.name
+in	O-in
+hindi	B-movie.language
+
+display	O-display
+person.name	B-actor.name
+person.name	I-actor.name
+films	O-films
+
+list	O-list
+the	O-the
+movies	O-movies
+that	O-that
+have	O-have
+the	O-the
+actress	O-actress
+person.name	B-actor.name
+person.name	I-actor.name
+
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+what	O-what
+movies	O-movies
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+view	O-view
+movies	O-movies
+produced	O-produced
+by	O-by
+clint	B-producer.name
+eastwood	I-producer.name
+
+list	O-list
+all	O-all
+movies	O-movies
+about	O-about
+horses	B-movie.subject
+
+find	O-find
+all	O-all
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+
+search	O-search
+by	O-by
+director	O-director
+
+search	O-search
+by	O-by
+director	O-director
+
+is	O-is
+there	O-there
+any	O-any
+upcoming	O-upcoming
+movies	O-movies
+from	O-from
+warner	B-producer.name
+brothers	I-producer.name
+
+bring	O-bring
+up	O-up
+movies	O-movies
+with	O-with
+ice	B-movie.subject
+skating	I-movie.subject
+in	O-in
+it	O-it
+
+find	O-find
+newly	O-newly
+released	O-released
+comedies	B-movie.genre
+from	O-from
+country.name	B-country.name
+
+i	O-i
+need	O-need
+info	O-info
+on	O-on
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+houses	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+about	O-about
+
+give	O-give
+me	O-me
+more	O-more
+facts	O-facts
+about	O-about
+the	O-the
+movie	O-movie
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+in	O-in
+detail	O-detail
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+in	O-in
+detail	O-detail
+about	O-about
+the	O-the
+movie	O-movie
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+display	O-display
+movie	O-movie
+information	O-information
+for	O-for
+the	O-the
+film	O-film
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+films	O-films
+with	O-with
+chinese	B-movie.language
+
+i	O-i
+want	O-want
+to	O-to
+watch	O-watch
+a	O-a
+movie	O-movie
+in	O-in
+chinese	B-movie.language
+
+find	O-find
+movies	O-movies
+produced	O-produced
+and	O-and
+directed	O-directed
+by	O-by
+tyler	B-producer.name
+perry	I-producer.name
+
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+please	O-please
+
+i	O-i
+want	O-want
+person.name	B-actor.name
+person.name	I-actor.name
+movies	O-movies
+please	O-please
+
+which	O-which
+movies	O-movies
+star	O-star
+person.name	B-actor.name
+person.name	I-actor.name
+
+which	O-which
+movies	O-movies
+do	O-do
+person.name	B-actor.name
+person.name	I-actor.name
+play	O-play
+in	O-in
+
+find	O-find
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+
+search	O-search
+by	O-by
+genre	O-genre
+
+looking	O-looking
+for	O-for
+movies	O-movies
+of	O-of
+person.name	B-director.name
+person.name	I-director.name
+
+find	O-find
+me	O-me
+information	O-information
+about	O-about
+the	B-movie.name
+campaign	I-movie.name
+movie	O-movie
+
+information	O-information
+for	O-for
+movie	O-movie
+the	B-movie.name
+campaign	I-movie.name
+
+show	O-show
+me	O-me
+info	O-info
+on	O-on
+the	O-the
+movie	O-movie
+the	B-movie.name
+campaign	I-movie.name
+please	O-please
+
+i	O-i
+need	O-need
+to	O-to
+see	O-see
+all	O-all
+the	O-the
+details	O-details
+about	O-about
+the	O-the
+movie	O-movie
+the	B-movie.name
+campaign	I-movie.name
+
+sort	O-sort
+all	O-all
+pg	B-rating.name
+movies	O-movies
+
+pg	B-rating.name
+rated	O-rated
+movies	O-movies
+
+access	O-access
+a	O-a
+list	O-list
+of	O-of
+pg	B-rating.name
+movies	O-movies
+please	O-please
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+pg	B-rating.name
+movies	O-movies
+
+can	O-can
+you	O-you
+find	O-find
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+pg	B-rating.name
+rated	O-rated
+movies	O-movies
+to	O-to
+watch	O-watch
+
+show	O-show
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+pg	B-rating.name
+rated	O-rated
+movies	O-movies
+
+find	O-find
+movies	O-movies
+with	O-with
+a	O-a
+pg	B-rating.name
+rating	O-rating
+
+what	O-what
+movies	O-movies
+are	O-are
+pg	B-rating.name
+
+movies	O-movies
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+what	O-what
+movies	O-movies
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+make	O-make
+
+watch	O-watch
+person.name	B-director.name
+movies	O-movies
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+any	O-any
+current	O-current
+movies	O-movies
+starring	O-starring
+person.name	B-actor.name
+person.name	I-actor.name
+
+i	O-i
+want	O-want
+a	O-a
+list	O-list
+of	O-of
+recent	O-recent
+movies	O-movies
+rated	O-rated
+pg	B-rating.name
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+recent	O-recent
+movies	O-movies
+rated	O-rated
+pg	B-rating.name
+
+ray	B-producer.name
+stark	I-producer.name
+produced	O-produced
+what	O-what
+other	O-other
+movies	O-movies
+
+what	O-what
+is	O-is
+spielberg	B-producer.name
+'s	O-'s
+latest	O-latest
+movie	O-movie
+
+please	O-please
+find	O-find
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+are	O-are
+there	O-there
+any	O-any
+recent	O-recent
+movies	O-movies
+that	O-that
+are	O-are
+polish	B-movie.language
+speaking	O-speaking
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+been	O-been
+in	O-in
+recently	O-recently
+
+search	O-search
+for	O-for
+new	O-new
+movies	O-movies
+
+search	O-search
+for	O-for
+in	B-movie.name
+july	I-movie.name
+
+watch	O-watch
+in	B-movie.name
+july	I-movie.name
+online	O-online
+
+search	O-search
+for	O-for
+information	O-information
+about	O-about
+lionsgate	B-producer.name
+
+lionsgate	B-producer.name
+info	O-info
+
+find	O-find
+information	O-information
+about	O-about
+paramount	B-producer.name
+studios	I-producer.name
+
+who	O-who
+is	O-is
+person.name	B-person.name
+person.name	I-person.name
+
+find	O-find
+information	O-information
+on	O-on
+person.name	B-person.name
+person.name	I-person.name
+
+i	O-i
+want	O-want
+to	O-to
+look	O-look
+up	O-up
+information	O-information
+about	O-about
+person.name	B-person.name
+person.name	I-person.name
+
+can	O-can
+you	O-you
+please	O-please
+search	O-search
+details	O-details
+about	O-about
+person.name	B-person.name
+person.name	I-person.name
+
+person.name	B-person.name
+person.name	I-person.name
+biography	O-biography
+
+show	O-show
+person.name	B-person.name
+person.name	I-person.name
+biography	O-biography
+
+show	O-show
+me	O-me
+a	O-a
+complete	O-complete
+biography	O-biography
+of	O-of
+person.name	B-person.name
+person.name	I-person.name
+
+show	O-show
+me	O-me
+information	O-information
+on	O-on
+person.name	B-person.name
+person.name	I-person.name
+
+show	O-show
+me	O-me
+person.name	B-person.name
+person.name	I-person.name
+'s	O-'s
+bio	O-bio
+
+get	O-get
+info	O-info
+on	O-on
+person.name	B-person.name
+person.name	I-person.name
+
+does	O-does
+person.name	B-person.name
+person.name	I-person.name
+have	O-have
+a	O-a
+personal	O-personal
+page	O-page
+
+where	O-where
+can	O-can
+i	O-i
+find	O-find
+information	O-information
+about	O-about
+person.name	B-person.name
+person.name	I-person.name
+
+person.name	B-person.name
+person.name	I-person.name
+bio	O-bio
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+person.name	B-person.name
+'s	O-'s
+main	O-main
+page	O-page
+
+person.name	B-person.name
+person.name	I-person.name
+summary	O-summary
+
+about	O-about
+person.name	B-person.name
+person.name	I-person.name
+
+find	O-find
+me	O-me
+bio	O-bio
+details	O-details
+for	O-for
+person.name	B-person.name
+person.name	I-person.name
+
+bio	O-bio
+for	O-for
+person.name	B-person.name
+person.name	I-person.name
+
+show	O-show
+me	O-me
+person.name	B-person.name
+person.name	I-person.name
+
+i	O-i
+want	O-want
+more	O-more
+information	O-information
+about	O-about
+person.name	B-person.name
+person.name	I-person.name
+'s	O-'s
+biography	O-biography
+
+all	O-all
+info	O-info
+person.name	B-person.name
+
+find	O-find
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+producer	O-producer
+of	O-of
+avatar	B-movie.name
+
+producer	O-producer
+hitch	B-movie.name
+
+who	O-who
+produces	O-produces
+hitch	B-movie.name
+
+production	O-production
+company	O-company
+for	O-for
+transformers	B-movie.name
+
+what	O-what
+company	O-company
+made	O-made
+et	B-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+production	O-production
+company	O-company
+for	O-for
+et	B-movie.name
+
+who	O-who
+produces	O-produces
+cars	B-movie.name
+
+can	O-can
+you	O-you
+find	O-find
+who	O-who
+produced	O-produced
+cars	B-movie.name
+
+production	O-production
+company	O-company
+for	O-for
+devil	B-movie.name
+
+who	O-who
+produced	O-produced
+the	O-the
+movie	O-movie
+steel	B-movie.name
+magnolias	I-movie.name
+
+who	O-who
+produced	O-produced
+avatar	B-movie.name
+
+i	O-i
+want	O-want
+to	O-to
+know	O-know
+the	O-the
+producer	O-producer
+of	O-of
+avatar	B-movie.name
+
+who	O-who
+produced	O-produced
+avatar	B-movie.name
+
+who	O-who
+produced	O-produced
+avatar	B-movie.name
+
+avatar	B-movie.name
+producer	O-producer
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+who	O-who
+produced	O-produced
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+who	O-who
+produced	O-produced
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+who	O-who
+are	O-are
+the	O-the
+producers	O-producers
+for	O-for
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+what	O-what
+is	O-is
+grease	B-movie.name
+'s	O-'s
+producer	O-producer
+
+who	O-who
+produced	O-produced
+grease	B-movie.name
+
+who	O-who
+produced	O-produced
+the	O-the
+movie	O-movie
+my	B-movie.name
+big	I-movie.name
+fat	I-movie.name
+greek	I-movie.name
+wedding	I-movie.name
+
+who	O-who
+produced	O-produced
+pretty	B-movie.name
+woman	I-movie.name
+
+tell	O-tell
+me	O-me
+the	O-the
+producer	O-producer
+for	O-for
+the	B-movie.name
+godfather	I-movie.name
+
+the	B-movie.name
+godfather	I-movie.name
+was	O-was
+produced	O-produced
+by	O-by
+
+who	O-who
+produced	O-produced
+the	O-the
+movie	O-movie
+clue	B-movie.name
+
+who	O-who
+produced	O-produced
+hotel	B-movie.name
+rwanda	I-movie.name
+
+who	O-who
+produced	O-produced
+marley	B-movie.name
+and	I-movie.name
+me	I-movie.name
+
+who	O-who
+produced	O-produced
+despicable	B-movie.name
+me	I-movie.name
+
+who	O-who
+is	O-is
+the	O-the
+company	O-company
+that	O-that
+produced	O-produced
+the	O-the
+movie	O-movie
+inception	B-movie.name
+
+what	O-what
+company	O-company
+developed	O-developed
+the	O-the
+movie	O-movie
+inception	B-movie.name
+
+find	O-find
+producer	O-producer
+of	O-of
+the	B-movie.name
+great	I-movie.name
+debaters	I-movie.name
+
+who	O-who
+produced	O-produced
+inception	B-movie.name
+
+provide	O-provide
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+company	O-company
+that	O-that
+produced	O-produced
+sparkle	B-movie.name
+
+i	O-i
+need	O-need
+to	O-to
+know	O-know
+the	O-the
+company	O-company
+that	O-that
+produced	O-produced
+sparkle	B-movie.name
+
+find	O-find
+the	O-the
+producer	O-producer
+of	O-of
+look	B-movie.name
+who	I-movie.name
+'s	I-movie.name
+talking	I-movie.name
+
+who	O-who
+produced	O-produced
+harlem	B-movie.name
+nights	I-movie.name
+
+find	O-find
+the	O-the
+producer	O-producer
+of	O-of
+step	B-movie.name
+up	I-movie.name
+
+please	O-please
+find	O-find
+the	O-the
+producer	O-producer
+of	O-of
+freedom	B-movie.name
+writers	I-movie.name
+
+look	O-look
+for	O-for
+the	O-the
+producer	O-producer
+of	O-of
+freedom	B-movie.name
+writers	I-movie.name
+
+show	O-show
+me	O-me
+movie	O-movie
+rating	O-rating
+
+how	O-how
+much	O-much
+revenue	O-revenue
+did	O-did
+pretty	B-movie.name
+woman	I-movie.name
+make	O-make
+
+earnings	O-earnings
+for	O-for
+pretty	B-movie.name
+woman	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+revenue	O-revenue
+of	O-of
+pretty	B-movie.name
+woman	I-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+pretty	B-movie.name
+woman	I-movie.name
+make	O-make
+
+what	O-what
+was	O-was
+the	O-the
+gross	O-gross
+revenue	O-revenue
+for	O-for
+the	B-movie.name
+avengers	I-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+the	B-movie.name
+avengers	I-movie.name
+make	O-make
+
+revenue	O-revenue
+for	O-for
+the	B-movie.name
+avengers	I-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+the	B-movie.name
+dark	I-movie.name
+night	I-movie.name
+generate	O-generate
+in	O-in
+revenues	O-revenues
+
+find	O-find
+revenue	O-revenue
+totals	O-totals
+for	O-for
+jurassic	B-movie.name
+park	I-movie.name
+
+revenue	O-revenue
+for	O-for
+independence	B-movie.name
+day	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+new	O-new
+person.name	B-actor.name
+person.name	I-actor.name
+movie	O-movie
+about	O-about
+
+who	O-who
+played	O-played
+the	O-the
+voice	O-voice
+of	O-of
+person.name	B-character.name
+in	O-in
+finding	B-movie.name
+nemo	I-movie.name
+
+who	O-who
+played	O-played
+person.name	B-character.name
+person.name	I-character.name
+in	O-in
+happy	B-movie.name
+days	I-movie.name
+
+who	O-who
+stars	O-stars
+in	O-in
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+show	O-show
+me	O-me
+the	O-the
+cast	O-cast
+for	O-for
+the	O-the
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+cast	O-cast
+and	O-and
+crew	O-crew
+of	O-of
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+person.name	B-character.name
+actress	O-actress
+from	O-from
+i	B-movie.name
+love	I-movie.name
+lucy	I-movie.name
+
+actress	O-actress
+who	O-who
+played	O-played
+person.name	B-character.name
+on	O-on
+i	B-movie.name
+love	I-movie.name
+lucy	I-movie.name
+
+who	O-who
+are	O-are
+the	O-the
+cast	O-cast
+members	O-members
+in	O-in
+lord	B-movie.name
+of	I-movie.name
+the	I-movie.name
+rings	I-movie.name
+the	I-movie.name
+two	I-movie.name
+towers	I-movie.name
+
+who	O-who
+played	O-played
+person.name	B-character.name
+in	O-in
+mash	B-movie.name
+
+who	O-who
+played	O-played
+person.name	B-character.name
+in	O-in
+person.name	B-director.name
+'s	O-'s
+mirror	B-movie.name
+
+show	O-show
+me	O-me
+the	O-the
+actor	O-actor
+of	O-of
+the	O-the
+movie	O-movie
+muthyala	B-movie.name
+muggu	I-movie.name
+
+who	O-who
+are	O-are
+the	O-the
+person.name	B-character.name
+in	O-in
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+
+who	O-who
+was	O-was
+that	O-that
+guy	O-guy
+again	O-again
+who	O-who
+was	O-was
+in	O-in
+the	B-movie.name
+avengers	I-movie.name
+
+which	O-which
+actor	O-actor
+played	O-played
+person.name	B-character.name
+in	O-in
+lord	B-movie.name
+of	I-movie.name
+the	I-movie.name
+rings	I-movie.name
+
+find	O-find
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+actress	O-actress
+who	O-who
+played	O-played
+person.name	B-character.name
+in	O-in
+mirror	B-movie.name
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+what	O-what
+is	O-is
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+actress	O-actress
+who	O-who
+played	O-played
+person.name	B-character.name
+in	O-in
+person.name	B-director.name
+'s	O-'s
+mirror	B-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+actor	O-actor
+who	O-who
+played	O-played
+person.name	B-character.name
+in	O-in
+the	O-the
+tv	O-tv
+show	O-show
+one	B-movie.name
+life	I-movie.name
+to	I-movie.name
+live	I-movie.name
+
+give	O-give
+me	O-me
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+main	O-main
+actress	O-actress
+in	O-in
+platoon	B-movie.name
+
+what	O-what
+'s	O-'s
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+person.name	B-character.name
+on	O-on
+seinfeld	B-movie.name
+
+name	O-name
+the	O-the
+co-star	O-co-star
+in	O-in
+shoot	B-movie.name
+to	I-movie.name
+kill	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+actor	O-actor
+who	O-who
+played	O-played
+person.name	B-character.name
+person.name	I-character.name
+in	O-in
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+
+show	O-show
+me	O-me
+the	O-the
+name	O-name
+of	O-of
+the	O-the
+guy	O-guy
+who	O-who
+was	O-was
+the	O-the
+person.name	B-character.name
+person.name	I-character.name
+person.name	I-character.name
+person.name	I-character.name
+in	O-in
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+
+please	O-please
+provide	O-provide
+the	O-the
+cost	O-cost
+for	O-for
+producing	O-producing
+the	O-the
+deer	B-movie.name
+hunter	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+budget	O-budget
+for	O-for
+epic	B-movie.name
+
+search	O-search
+budget	O-budget
+for	O-for
+the	O-the
+movie	O-movie
+epic	B-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+fire	B-movie.name
+proof	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+fly	B-movie.name
+whele	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+1st	O-1st
+harry	B-movie.name
+potter	I-movie.name
+movie	O-movie
+
+how	O-how
+much	O-much
+was	O-was
+spent	O-spent
+on	O-on
+shooting	O-shooting
+the	O-the
+last	O-last
+harry	B-movie.name
+potter	I-movie.name
+film	O-film
+
+how	O-how
+much	O-much
+does	O-does
+it	O-it
+cost	O-cost
+to	O-to
+produce	O-produce
+looper	B-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+it	O-it
+cost	O-cost
+to	O-to
+produce	O-produce
+looper	B-movie.name
+
+how	O-how
+much	O-much
+money	O-money
+was	O-was
+spent	O-spent
+to	O-to
+produce	O-produce
+looper	B-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+cost	O-cost
+
+how	O-how
+much	O-much
+was	O-was
+it	O-it
+to	O-to
+make	O-make
+paranorman	B-movie.name
+
+show	O-show
+me	O-me
+the	O-the
+budget	O-budget
+to	O-to
+rebel	B-movie.name
+movie	O-movie
+
+show	O-show
+me	O-me
+the	O-the
+budget	O-budget
+for	O-for
+star	B-movie.name
+wars	I-movie.name
+2	I-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+it	O-it
+cost	O-cost
+to	O-to
+create	O-create
+the	B-movie.name
+boardwalk	I-movie.name
+empire	I-movie.name
+
+show	O-show
+me	O-me
+the	O-the
+budget	O-budget
+for	O-for
+expendables	B-movie.name
+1	I-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+budget	O-budget
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+in	O-in
+3d	O-3d
+
+liongate	B-producer.name
+
+which	O-which
+country	O-country
+made	O-made
+inchochine	B-movie.name
+
+what	O-what
+country	O-country
+filed	O-filed
+les	B-movie.name
+mes	I-movie.name
+
+what	O-what
+country	O-country
+is	O-is
+les	B-movie.name
+mes	I-movie.name
+from	O-from
+
+where	O-where
+was	O-was
+the	O-the
+milk	B-movie.name
+of	I-movie.name
+sorrow	I-movie.name
+made	O-made
+
+what	O-what
+country	O-country
+is	O-is
+shawshank	B-movie.name
+redemption	I-movie.name
+
+what	O-what
+country	O-country
+does	O-does
+the	O-the
+movie	O-movie
+thoda	B-movie.name
+pyaar	I-movie.name
+thoda	I-movie.name
+magic	I-movie.name
+comes	O-comes
+from	O-from
+
+tell	O-tell
+me	O-me
+where	O-where
+the	O-the
+white	B-movie.name
+ribbon	I-movie.name
+came	O-came
+from	O-from
+
+when	O-when
+was	O-was
+the	O-the
+movie	O-movie
+barfi	B-movie.name
+!	I-movie.name
+released	O-released
+
+what	O-what
+are	O-are
+the	O-the
+dates	O-dates
+for	O-for
+the	O-the
+movie	O-movie
+barfi	B-movie.name
+!	I-movie.name
+
+release	O-release
+date	O-date
+of	O-of
+the	O-the
+new	O-new
+bugs	B-movie.name
+bunny	I-movie.name
+film	O-film
+
+what	O-what
+is	O-is
+the	O-the
+release	O-release
+date	O-date
+of	O-of
+evil	B-movie.name
+goes	I-movie.name
+global	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+release	O-release
+date	O-date
+for	O-for
+jaws	B-movie.name
+17	I-movie.name
+in	O-in
+the	O-the
+theaters	O-theaters
+
+what	O-what
+is	O-is
+the	O-the
+release	O-release
+date	O-date
+for	O-for
+jurassic	B-movie.name
+park	I-movie.name
+4	I-movie.name
+
+list	O-list
+release	O-release
+dates	O-dates
+for	O-for
+the	O-the
+jurassic	B-movie.name
+park	I-movie.name
+movies	O-movies
+
+when	O-when
+will	O-will
+the	O-the
+movie	O-movie
+omg	B-movie.name
+oh	I-movie.name
+my	I-movie.name
+god	I-movie.name
+be	O-be
+released	O-released
+
+when	O-when
+was	O-was
+the	O-the
+lord	B-movie.name
+of	I-movie.name
+the	I-movie.name
+rings	I-movie.name
+movie	O-movie
+released	O-released
+
+whats	O-whats
+paranormal	B-movie.name
+activities	I-movie.name
+release	O-release
+date	O-date
+
+when	O-when
+will	O-will
+robocop	B-movie.name
+come	O-come
+out	O-out
+
+when	O-when
+was	O-was
+suckerpunch	B-movie.name
+be	O-be
+released	O-released
+
+when	O-when
+was	O-was
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+released	O-released
+
+when	O-when
+will	O-will
+twilight	B-movie.name
+breaking	I-movie.name
+dawn	I-movie.name
+part	I-movie.name
+2	I-movie.name
+be	O-be
+released	O-released
+
+who	O-who
+directed	O-directed
+ai	B-movie.name
+
+find	O-find
+the	O-the
+director	O-director
+of	O-of
+downton	B-movie.name
+abbey	I-movie.name
+
+who	O-who
+directed	O-directed
+good	B-movie.name
+bad	I-movie.name
+and	I-movie.name
+ugly	I-movie.name
+
+i	O-i
+can	O-can
+'t	O-'t
+remember	O-remember
+who	O-who
+directed	O-directed
+star	B-movie.name
+wars	I-movie.name
+
+find	O-find
+the	O-the
+director	O-director
+of	O-of
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+
+is	O-is
+amelie	B-movie.name
+in	O-in
+a	O-a
+different	O-different
+language	O-language
+
+what	O-what
+language	O-language
+was	O-was
+amelie	B-movie.name
+filmed	O-filmed
+in	O-in
+
+what	O-what
+language	O-language
+is	O-is
+the	O-the
+full	B-movie.name
+monty	I-movie.name
+in	O-in
+
+what	O-what
+is	O-is
+ju	B-movie.name
+on	I-movie.name
+'s	O-'s
+original	O-original
+language	O-language
+
+what	O-what
+language	O-language
+is	O-is
+secrets	B-movie.name
+and	I-movie.name
+lies	I-movie.name
+in	O-in
+
+give	O-give
+me	O-me
+names	O-names
+of	O-of
+some	O-some
+action	B-movie.genre
+movies	O-movies
+with	O-with
+a	O-a
+pg	B-rating.name
+thirteen	I-rating.name
+rating	O-rating
+
+show	O-show
+all	O-all
+comedy	B-movie.genre
+musicals	B-movie.genre
+for	O-for
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+
+are	O-are
+there	O-there
+any	O-any
+documentaries	B-movie.genre
+on	O-on
+classic	B-movie.subject
+cars	I-movie.subject
+
+show	O-show
+all	O-all
+dramas	B-movie.genre
+produced	O-produced
+in	O-in
+2010	B-movie.release_date
+
+find	O-find
+some	O-some
+mysteries	B-movie.genre
+
+search	O-search
+romantic	B-movie.genre
+commedies	I-movie.genre
+
+sci-fi	B-movie.genre
+
+show	O-show
+me	O-me
+westerns	B-movie.genre
+
+show	O-show
+car	B-movie.subject
+documentaries	B-movie.genre
+
+show	O-show
+me	O-me
+a	O-a
+person.name	B-actor.name
+person.name	I-actor.name
+flick	B-movie.type
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+videos	B-movie.type
+of	O-of
+person.name	B-director.name
+person.name	I-director.name
+
+videos	B-movie.type
+related	O-related
+to	O-to
+person.name	B-director.name
+person.name	I-director.name
+
+new	O-new
+released	O-released
+videos	B-movie.type
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+country.name	B-country.name
+movies	O-movies
+
+show	O-show
+all	O-all
+country.name	B-country.name
+movies	O-movies
+for	O-for
+nineteen	B-movie.release_date
+eighty	I-movie.release_date
+
+what	O-what
+movies	O-movies
+were	O-were
+made	O-made
+in	O-in
+country.name	B-country.name
+this	B-movie.release_date
+year	I-movie.release_date
+
+find	O-find
+country.name	B-country.name
+movies	O-movies
+in	O-in
+english	B-movie.language
+
+show	O-show
+me	O-me
+the	O-the
+highest-grossing	O-highest-grossing
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+find	O-find
+movies	O-movies
+in	O-in
+country.name	B-country.name
+about	O-about
+obama	B-movie.subject
+
+i	O-i
+'d	O-'d
+love	O-love
+to	O-to
+watch	O-watch
+an	O-an
+person.name	B-director.name
+person.name	I-director.name
+movie	O-movie
+
+what	O-what
+other	O-other
+films	O-films
+has	O-has
+person.name	B-director.name
+person.name	I-director.name
+done	O-done
+
+bring	O-bring
+up	O-up
+all	O-all
+movies	O-movies
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+what	O-what
+movies	O-movies
+has	O-has
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+
+movies	O-movies
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+any	O-any
+movies	O-movies
+
+what	O-what
+movies	O-movies
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+do	O-do
+
+movies	O-movies
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+as	O-as
+a	O-a
+director	O-director
+
+show	O-show
+me	O-me
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+person.name	B-director.name
+person.name	I-director.name
+has	O-has
+directed	O-directed
+what	O-what
+movies	O-movies
+
+please	O-please
+list	O-list
+all	O-all
+movies	O-movies
+directed	O-directed
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+
+person.name	B-director.name
+person.name	I-director.name
+directed	O-directed
+what	O-what
+movie	O-movie
+
+find	O-find
+action	B-movie.genre
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+show	O-show
+all	O-all
+animation	B-movie.genre
+films	O-films
+for	O-for
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+
+animated	B-movie.genre
+pg	B-rating.name
+thirteen	I-rating.name
+movies	O-movies
+
+physfi	B-movie.genre
+movies	O-movies
+
+i	O-i
+like	O-like
+sci-fi	B-movie.genre
+movies	O-movies
+
+show	O-show
+me	O-me
+films	O-films
+released	O-released
+in	O-in
+september	B-movie.release_date
+
+show	O-show
+all	O-all
+movies	O-movies
+released	O-released
+in	O-in
+september	B-movie.release_date
+
+look	O-look
+up	O-up
+all	O-all
+movies	O-movies
+coming	O-coming
+in	O-in
+september	B-movie.release_date
+
+find	O-find
+movies	O-movies
+for	O-for
+twenty	B-movie.release_date
+ten	I-movie.release_date
+
+most	O-most
+recent	O-recent
+zombie	B-movie.subject
+movies	O-movies
+
+search	O-search
+for	O-for
+movies	O-movies
+in	O-in
+chinese	B-movie.language
+
+find	O-find
+me	O-me
+movies	O-movies
+that	O-that
+are	O-are
+in	O-in
+chinese	B-movie.language
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+a	O-a
+list	O-list
+of	O-of
+all	O-all
+movies	O-movies
+shown	O-shown
+in	O-in
+english	B-movie.language
+
+find	O-find
+movies	O-movies
+in	O-in
+farsi	B-movie.language
+
+send	O-send
+me	O-me
+movies	O-movies
+that	O-that
+are	O-are
+in	O-in
+french	B-movie.language
+
+find	O-find
+movies	O-movies
+in	O-in
+french	B-movie.language
+
+i	O-i
+would	O-would
+like	O-like
+a	O-a
+list	O-list
+of	O-of
+movies	O-movies
+in	O-in
+french	B-movie.language
+
+movies	O-movies
+in	O-in
+french	B-movie.language
+
+i	O-i
+want	O-want
+to	O-to
+find	O-find
+movies	O-movies
+using	O-using
+the	O-the
+french	B-movie.language
+langauage	O-langauage
+
+i	O-i
+want	O-want
+movies	O-movies
+in	O-in
+french	B-movie.language
+
+find	O-find
+movies	O-movies
+in	O-in
+german	B-movie.language
+before	O-before
+2000	B-movie.release_date
+
+give	O-give
+me	O-me
+some	O-some
+movies	O-movies
+which	O-which
+were	O-were
+filmed	O-filmed
+in	O-in
+polish	B-movie.language
+
+find	O-find
+movies	O-movies
+in	O-in
+portugese	B-movie.language
+
+show	O-show
+all	O-all
+movies	O-movies
+in	O-in
+spanish	B-movie.language
+
+list	O-list
+of	O-of
+movies	O-movies
+in	O-in
+the	O-the
+spanish	B-movie.language
+language	O-language
+
+movies	O-movies
+in	O-in
+spanish	B-movie.language
+
+i	O-i
+am	O-am
+searching	O-searching
+for	O-for
+movies	O-movies
+in	O-in
+spanish	B-movie.language
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+look	O-look
+for	O-for
+movies	O-movies
+in	O-in
+spanish	B-movie.language
+
+find	O-find
+movies	O-movies
+in	O-in
+swahili	B-movie.language
+
+show	O-show
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+all	O-all
+movies	O-movies
+produced	O-produced
+by	O-by
+alfred	B-producer.name
+ruddy	I-producer.name
+
+what	O-what
+other	O-other
+movies	O-movies
+charles	B-producer.name
+vidor	I-producer.name
+produce	O-produce
+
+has	O-has
+jennifer	B-producer.name
+anniston	I-producer.name
+produced	O-produced
+movies	O-movies
+
+show	O-show
+me	O-me
+the	O-the
+movies	O-movies
+produced	O-produced
+by	O-by
+m	B-producer.name
+s	I-producer.name
+raju	I-producer.name
+
+list	O-list
+the	O-the
+movies	O-movies
+created	O-created
+by	O-by
+7	B-producer.name
+arts	I-producer.name
+
+lionsgate	B-producer.name
+=	O-=
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+get	O-get
+a	O-a
+list	O-list
+of	O-of
+your	O-your
+movies	O-movies
+from	O-from
+two	B-movie.release_date
+thousand	I-movie.release_date
+and	I-movie.release_date
+nine	I-movie.release_date
+to	I-movie.release_date
+two	I-movie.release_date
+thousand	I-movie.release_date
+and	I-movie.release_date
+twelve	I-movie.release_date
+
+twentieth	B-producer.name
+century	I-producer.name
+fox	I-producer.name
+movies	O-movies
+2012	B-movie.release_date
+
+show	O-show
+me	O-me
+nc	B-rating.name
+minus	I-rating.name
+seventeen	I-rating.name
+rated	O-rated
+movies	O-movies
+
+show	O-show
+me	O-me
+movies	O-movies
+with	O-with
+not	B-rating.name
+rated	I-rating.name
+rating	O-rating
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+nr	B-rating.name
+movies	O-movies
+
+what	O-what
+is	O-is
+a	O-a
+list	O-list
+of	O-of
+pg	B-rating.name
+thirteen	I-rating.name
+action	B-movie.genre
+movies	O-movies
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+a	O-a
+pg	B-rating.name
+thirteen	I-rating.name
+movie	O-movie
+
+show	O-show
+me	O-me
+a	O-a
+complete	O-complete
+list	O-list
+of	O-of
+r	B-rating.name
+rated	O-rated
+movies	O-movies
+that	O-that
+came	O-came
+out	O-out
+in	O-in
+the	B-movie.release_date
+last	I-movie.release_date
+30	I-movie.release_date
+days	I-movie.release_date
+
+show	O-show
+me	O-me
+all	O-all
+rated	O-rated
+r	B-rating.name
+movies	O-movies
+by	O-by
+paramount	B-producer.name
+
+show	O-show
+me	O-me
+movies	O-movies
+that	O-that
+are	O-are
+unrated	B-rating.name
+
+list	O-list
+movies	O-movies
+from	O-from
+1995	B-movie.release_date
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+which	O-which
+movies	O-movies
+has	O-has
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+this	B-movie.release_date
+season	I-movie.release_date
+
+what	O-what
+movie	O-movie
+was	O-was
+person.name	B-actor.name
+a	O-a
+person.name	B-character.name
+person.name	I-character.name
+
+look	O-look
+up	O-up
+movies	O-movies
+starring	O-starring
+the	O-the
+singer	B-actor.type
+person.name	B-actor.name
+
+i	O-i
+want	O-want
+to	O-to
+find	O-find
+movies	O-movies
+starring	O-starring
+the	O-the
+singer	B-actor.type
+person.name	B-actor.name
+
+look	O-look
+for	O-for
+movies	O-movies
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+person.name	I-actor.name
+
+show	O-show
+me	O-me
+movies	O-movies
+that	O-that
+have	O-have
+person.name	B-actor.name
+person.name	I-actor.name
+and	O-and
+person.name	B-actor.name
+person.name	I-actor.name
+in	O-in
+them	O-them
+
+show	O-show
+me	O-me
+movies	O-movies
+that	O-that
+star	O-star
+person.name	B-actor.name
+person.name	I-actor.name
+starred	O-starred
+in	O-in
+from	O-from
+nineteen	B-movie.release_date
+eighty	I-movie.release_date
+seven	I-movie.release_date
+
+what	O-what
+is	O-is
+that	O-that
+dancing	B-movie.subject
+movie	O-movie
+with	O-with
+person.name	B-actor.name
+person.name	I-actor.name
+
+movies	O-movies
+of	O-of
+person.name	B-actor.name
+person.name	I-actor.name
+
+movie	O-movie
+that	O-that
+person.name	B-actor.name
+person.name	I-actor.name
+and	O-and
+person.name	B-actor.name
+person.name	I-actor.name
+played	O-played
+in	O-in
+together	O-together
+
+movies	O-movies
+about	O-about
+animals	B-movie.subject
+
+show	O-show
+me	O-me
+movies	O-movies
+about	O-about
+bollywood	B-movie.subject
+
+chess	B-movie.subject
+movies	O-movies
+
+show	O-show
+me	O-me
+movies	O-movies
+on	O-on
+chess	B-movie.subject
+
+what	O-what
+are	O-are
+some	O-some
+movies	O-movies
+about	O-about
+disco	B-movie.subject
+
+what	O-what
+movies	O-movies
+can	O-can
+offer	O-offer
+tips	O-tips
+on	O-on
+gardening	B-movie.subject
+
+i	O-i
+want	O-want
+to	O-to
+look	O-look
+up	O-up
+movies	O-movies
+about	O-about
+hair	B-movie.subject
+
+find	O-find
+movies	O-movies
+about	O-about
+libraries	B-movie.subject
+
+find	O-find
+some	O-some
+movies	O-movies
+about	O-about
+musicians	B-movie.subject
+
+can	O-can
+you	O-you
+find	O-find
+movies	O-movies
+about	O-about
+preschool	B-movie.subject
+boys	I-movie.subject
+
+look	O-look
+for	O-for
+movies	O-movies
+about	O-about
+preschool	B-movie.subject
+boys	I-movie.subject
+
+what	O-what
+films	O-films
+focus	O-focus
+on	O-on
+rape	B-movie.subject
+and	I-movie.subject
+victim	I-movie.subject
+'s	I-movie.subject
+rights	I-movie.subject
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+names	O-names
+of	O-of
+some	O-some
+movies	O-movies
+on	O-on
+religious	B-movie.subject
+issues	I-movie.subject
+
+give	O-give
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+some	O-some
+movies	O-movies
+on	O-on
+religious	B-movie.subject
+issues	I-movie.subject
+
+look	O-look
+for	O-for
+movies	O-movies
+about	O-about
+school	B-movie.subject
+
+tell	O-tell
+me	O-me
+the	O-the
+names	O-names
+of	O-of
+some	O-some
+soccer	B-movie.subject
+movies	O-movies
+
+what	O-what
+are	O-are
+some	O-some
+time	B-movie.subject
+travel	I-movie.subject
+movies	O-movies
+i	O-i
+can	O-can
+watch	O-watch
+
+show	O-show
+me	O-me
+movies	O-movies
+involving	O-involving
+time	B-movie.subject
+travel	I-movie.subject
+
+vampire	B-movie.subject
+movies	O-movies
+please	O-please
+
+list	O-list
+movies	O-movies
+with	O-with
+a	O-a
+theme	O-theme
+of	O-of
+war	B-movie.subject
+in	O-in
+them	O-them
+
+show	O-show
+all	O-all
+movies	O-movies
+with	O-with
+the	O-the
+theme	O-theme
+of	O-of
+war	B-movie.subject
+
+can	O-can
+you	O-you
+find	O-find
+me	O-me
+some	O-some
+movies	O-movies
+about	O-about
+war	B-movie.subject
+
+i	O-i
+want	O-want
+a	O-a
+list	O-list
+of	O-of
+movies	O-movies
+about	O-about
+war	B-movie.subject
+
+i	O-i
+want	O-want
+movies	O-movies
+about	O-about
+war	B-movie.subject
+
+find	O-find
+movies	O-movies
+about	O-about
+world	B-movie.subject
+war	I-movie.subject
+two	I-movie.subject
+
+what	O-what
+are	O-are
+some	O-some
+zombie	B-movie.subject
+apocalypse	I-movie.subject
+movies	O-movies
+
+search	O-search
+for	O-for
+zombie	B-movie.subject
+movies	O-movies
+
+show	O-show
+me	O-me
+belle	B-movie.name
+in	O-in
+spanish	B-movie.language
+
+is	O-is
+dredd	B-movie.name
+rated	O-rated
+r	B-rating.name
+
+take	O-take
+me	O-me
+to	O-to
+the	O-the
+french	B-movie.language
+version	O-version
+of	O-of
+et	B-movie.name
+
+find	O-find
+et	B-movie.name
+in	O-in
+french	B-movie.language
+
+find	O-find
+fast	B-movie.name
+and	I-movie.name
+furious	I-movie.name
+in	O-in
+japanese	B-movie.language
+
+hard	B-movie.name
+day	I-movie.name
+'s	I-movie.name
+night	I-movie.name
+person.name	B-director.name
+person.name	I-director.name
+
+information	O-information
+about	O-about
+movie	O-movie
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+movie	O-movie
+information	O-information
+for	O-for
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+will	O-will
+you	O-you
+please	O-please
+show	O-show
+me	O-me
+info	O-info
+on	O-on
+the	O-the
+movie	O-movie
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+can	O-can
+you	O-you
+please	O-please
+show	O-show
+me	O-me
+info	O-info
+on	O-on
+the	O-the
+movie	O-movie
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+show	O-show
+me	O-me
+details	O-details
+to	O-to
+the	O-the
+movie	O-movie
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+show	O-show
+me	O-me
+info	O-info
+on	O-on
+the	O-the
+movie	O-movie
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+please	O-please
+
+open	O-open
+a	O-a
+page	O-page
+about	O-about
+the	O-the
+movie	O-movie
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+is	O-is
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+the	O-the
+premiere	O-premiere
+date	O-date
+for	O-for
+resident	B-movie.name
+evil	I-movie.name
+
+select	O-select
+rio	B-movie.name
+in	O-in
+chinese	B-movie.language
+
+find	O-find
+me	O-me
+the	O-the
+first	O-first
+star	B-movie.name
+wars	I-movie.name
+movie	O-movie
+info	O-info
+
+i	O-i
+need	O-need
+details	O-details
+about	O-about
+the	O-the
+movie	O-movie
+star	B-movie.name
+wars	I-movie.name
+:	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+-	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+
+did	O-did
+person.name	B-director.name
+person.name	I-director.name
+produce	O-produce
+steel	B-movie.name
+magnolias	I-movie.name
+
+is	O-is
+the	O-the
+movie	O-movie
+toy	B-movie.name
+story	I-movie.name
+4	I-movie.name
+being	O-being
+released	O-released
+next	B-movie.release_date
+summer	I-movie.release_date
+
+i	O-i
+want	O-want
+to	O-to
+look	O-look
+up	O-up
+information	O-information
+about	O-about
+country.name	B-country.name
+movies	O-movies
+
+chinese	B-movie.language
+foreign	O-foreign
+film	O-film
+with	O-with
+kungfu	B-movie.subject
+
+french	B-movie.language
+movies	O-movies
+for	O-for
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+
+look	O-look
+for	O-for
+russian	B-movie.language
+movies	O-movies
+by	O-by
+mosfilm	B-producer.name
+
+show	O-show
+production	O-production
+company	O-company
+lionsgate	B-producer.name
+
+paramount	B-producer.name
+film	I-producer.name
+studios	I-producer.name
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+have	O-have
+more	O-more
+information	O-information
+about	O-about
+the	O-the
+producer	O-producer
+person.name	B-person.name
+person.name	I-person.name
+
+show	O-show
+me	O-me
+details	O-details
+for	O-for
+the	O-the
+director	O-director
+person.name	B-director.name
+person.name	I-director.name
+
+show	O-show
+me	O-me
+that	O-that
+actor	O-actor
+person.name	B-actor.name
+person.name	I-actor.name
+
+i	O-i
+would	O-would
+like	O-like
+information	O-information
+about	O-about
+the	O-the
+actor	O-actor
+person.name	B-actor.name
+person.name	I-actor.name
+
+who	O-who
+produced	O-produced
+the	O-the
+movie	O-movie
+great	B-movie.name
+debaters	I-movie.name
+
+king	B-movie.name
+'s	I-movie.name
+speech	I-movie.name
+production	O-production
+company	O-company
+
+i	O-i
+wonder	O-wonder
+who	O-who
+produced	O-produced
+star	B-movie.name
+wars	I-movie.name
+
+i	O-i
+can	O-can
+'t	O-'t
+remember	O-remember
+who	O-who
+produced	O-produced
+star	B-movie.name
+wars	I-movie.name
+
+who	O-who
+produced	O-produced
+star	B-movie.name
+wars	I-movie.name
+
+movie	O-movie
+producers	O-producers
+
+how	O-how
+much	O-much
+did	O-did
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+gross	O-gross
+
+how	O-how
+much	O-much
+did	O-did
+movie	O-movie
+earn	O-earn
+
+show	O-show
+me	O-me
+the	O-the
+earnings	O-earnings
+for	O-for
+hotel	B-movie.name
+transylvania	I-movie.name
+
+what	O-what
+did	O-did
+the	O-the
+movie	O-movie
+the	O-the
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+steet	I-movie.name
+gross	O-gross
+
+revenue	O-revenue
+for	O-for
+iron	B-movie.name
+man	I-movie.name
+2	I-movie.name
+
+what	O-what
+amount	O-amount
+of	O-of
+revenue	O-revenue
+did	O-did
+iron	B-movie.name
+man	I-movie.name
+make	O-make
+
+what	O-what
+was	O-was
+the	O-the
+gross	O-gross
+revenue	O-revenue
+of	O-of
+iron	B-movie.name
+man	I-movie.name
+
+kahani	B-movie.name
+'s	O-'s
+revenue	O-revenue
+
+get	O-get
+the	O-the
+revenue	O-revenue
+of	O-of
+kahani	B-movie.name
+
+revenue	O-revenue
+looper	B-movie.name
+
+how	O-how
+much	O-much
+did	O-did
+looper	B-movie.name
+gross	O-gross
+in	O-in
+sales	O-sales
+
+how	O-how
+much	O-much
+did	O-did
+looper	B-movie.name
+gross	O-gross
+
+ho	O-ho
+much	O-much
+did	O-did
+looper	B-movie.name
+make	O-make
+
+how	O-how
+much	O-much
+money	O-money
+did	O-did
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+make	O-make
+
+how	O-how
+much	O-much
+money	O-money
+did	O-did
+the	O-the
+movie	O-movie
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+make	O-make
+
+in	O-in
+the	O-the
+movie	O-movie
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+how	O-how
+much	O-much
+money	O-money
+did	O-did
+the	O-the
+box	O-box
+offfice	O-offfice
+report	O-report
+
+how	O-how
+much	O-much
+money	O-money
+did	O-did
+philadelphia	B-movie.name
+make	O-make
+
+i	O-i
+want	O-want
+to	O-to
+know	O-know
+what	O-what
+the	O-the
+revenue	O-revenue
+for	O-for
+pirates	B-movie.name
+was	O-was
+
+how	O-how
+much	O-much
+was	O-was
+made	O-made
+from	O-from
+platoon	B-movie.name
+
+what	O-what
+was	O-was
+the	O-the
+gross	O-gross
+revenue	O-revenue
+earned	O-earned
+by	O-by
+star	B-movie.name
+wars	I-movie.name
+in	O-in
+its	O-its
+original	O-original
+release	O-release
+
+what	O-what
+was	O-was
+the	O-the
+total	O-total
+gross	O-gross
+receipts	O-receipts
+at	O-at
+the	O-the
+box	O-box
+office	O-office
+for	O-for
+the	O-the
+movie	O-movie
+star	B-movie.name
+wars	I-movie.name
+
+what	O-what
+were	O-were
+the	O-the
+gross	O-gross
+receipts	O-receipts
+for	O-for
+hunger	B-movie.name
+games	I-movie.name
+
+tell	O-tell
+me	O-me
+how	O-how
+much	O-much
+money	O-money
+tommy	B-movie.name
+boy	I-movie.name
+made	O-made
+
+how	O-how
+much	O-much
+revenue	O-revenue
+did	O-did
+top	B-movie.name
+gun	I-movie.name
+make	O-make
+
+tell	O-tell
+me	O-me
+the	O-the
+revenue	O-revenue
+of	O-of
+training	B-movie.name
+day	I-movie.name
+
+what	O-what
+is	O-is
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+about	O-about
+
+show	O-show
+me	O-me
+a	O-a
+list	O-list
+of	O-of
+production	O-production
+companies	O-companies
+
+show	O-show
+me	O-me
+the	O-the
+viewer	O-viewer
+ratings	O-ratings
+in	B-movie.name
+orange	I-movie.name
+
+is	O-is
+in	B-movie.name
+july	I-movie.name
+on	O-on
+netflix	O-netflix
+
+rate	O-rate
+movies	O-movies
+
+find	O-find
+the	O-the
+actor	O-actor
+that	O-that
+sings	O-sings
+let	O-let
+me	O-me
+love	O-love
+you	O-you
+
+what	O-what
+is	O-is
+person.name	B-person.name
+person.name	I-person.name
+up	O-up
+to	O-to
+
+country.name	B-country.name
+are	O-are
+all	O-all
+your	O-your
+movies	O-movies
+in	O-in
+your	O-your
+native	O-native
+language	O-language
+or	O-or
+in	O-in
+english	B-movie.language
+
+what	O-what
+'s	O-'s
+playing	O-playing
+tonight	O-tonight
+
+where	O-where
+can	O-can
+i	O-i
+buy	O-buy
+this	O-this
+movie	O-movie
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+if	O-if
+this	O-this
+is	O-is
+a	O-a
+real	O-real
+scary	B-movie.genre
+
+how	O-how
+to	O-to
+rent	O-rent
+dirty	B-movie.name
+dancing	I-movie.name
+
+can	O-can
+i	O-i
+rent	O-rent
+finding	B-movie.name
+nemo	I-movie.name
+on	O-on
+netflix	O-netflix
+
+hotel	B-movie.name
+rwanda	I-movie.name
+is	O-is
+based	O-based
+on	O-on
+what	O-what
+
+i	O-i
+need	O-need
+to	O-to
+know	O-know
+where	O-where
+you	O-you
+keep	O-keep
+resident	B-movie.name
+evil	I-movie.name
+
+in	O-in
+september	O-september
+
+dvd	O-dvd
+finding	B-movie.name
+nemo	I-movie.name
+
+find	O-find
+movie	O-movie
+from	O-from
+criteria	O-criteria
+
+find	O-find
+a	O-a
+movie	O-movie
+
+can	O-can
+you	O-you
+tell	O-tell
+me	O-me
+which	O-which
+movie	O-movie
+made	O-made
+the	O-the
+most	O-most
+at	O-at
+the	O-the
+box	O-box
+office	O-office
+in	O-in
+the	O-the
+weekend	O-weekend
+of	O-of
+september	O-september
+twenty	O-twenty
+eighth	O-eighth
+
+find	O-find
+movies	O-movies
+selected	O-selected
+on	O-on
+all	O-all
+criteria	O-criteria
+
+options	O-options
+available	O-available
+for	O-for
+movies	O-movies
+today	O-today
+
+find	O-find
+all	O-all
+selected	O-selected
+criteria	O-criteria
+
+search	O-search
+highlighted	O-highlighted
+information	O-information
+
+bring	O-bring
+up	O-up
+movie	O-movie
+request	O-request
+
+find	O-find
+selected	O-selected
+information	O-information
+
+find	O-find
+selected	O-selected
+criteria	O-criteria
+
+where	O-where
+can	O-can
+i	O-i
+watch	O-watch
+movie	O-movie
+
+search	O-search
+all	O-all
+databases	O-databases
+
+search	O-search
+databases	O-databases
+
+where	O-where
+can	O-can
+i	O-i
+see	O-see
+movie	O-movie
+
+what	O-what
+is	O-is
+the	O-the
+age	O-age
+limit	O-limit
+for	O-for
+the	O-the
+pg	B-rating.name
+rating	O-rating
+for	O-for
+the	O-the
+movie	O-movie
+hotel	B-movie.name
+transylvania	B-movie.name
+
+what	O-what
+does	O-does
+the	O-the
+rating	O-rating
+r	B-rating.name
+mean	O-mean
+for	O-for
+the	O-the
+movie	O-movie
+dred	O-dred
+
+show	O-show
+me	O-me
+the	O-the
+sequels	O-sequels
+or	O-or
+prequels	O-prequels
+to	O-to
+this	O-this
+movie	O-movie
+
+how	O-how
+long	O-long
+did	O-did
+it	O-it
+take	O-take
+james	B-producer.name
+cameron	I-producer.name
+to	O-to
+produce	O-produce
+avatar	B-movie.name
+
+is	O-is
+this	O-this
+film	O-film
+dubbed	O-dubbed
+in	O-in
+english	B-movie.language
+
+apollo	B-movie.name
+thirteen	I-movie.name
+cast	O-cast
+was	O-was
+chosen	O-chosen
+how	O-how
+
+what	O-what
+other	O-other
+formats	O-formats
+is	O-is
+finding	B-movie.name
+nemo	I-movie.name
+in	O-in
+
+in	O-in
+how	O-how
+many	O-many
+days	O-days
+did	O-did
+it	O-it
+take	O-take
+to	O-to
+make	O-make
+twenty	B-movie.gross_revenue
+one	I-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+for	O-for
+looper	B-movie.name
+
+what	O-what
+age	O-age
+group	O-group
+is	O-is
+for	O-for
+rated	O-rated
+r	B-rating.name
+movies	O-movies
+
+show	O-show
+me	O-me
+the	O-the
+behind	O-behind
+scenes	O-scenes
+of	O-of
+the	O-the
+movie	O-movie
+in	B-movie.name
+orange	I-movie.name
+
+how	O-how
+long	O-long
+do	O-do
+you	O-you
+predict	O-predict
+that	O-that
+wb	B-producer.name
+will	O-will
+continue	O-continue
+to	O-to
+strive	O-strive
+in	O-in
+today	O-today
+'s	O-'s
+market	O-market
+
+the	O-the
+crap	O-crap
+
+who	O-who
+determines	O-determines
+the	O-the
+ratings	O-ratings
+on	O-on
+movies	O-movies
+
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+should	O-should
+of	O-of
+made	O-made
+more	O-more
+money	O-money
+
+find	O-find
+me	O-me
+dirty	B-movie.name
+dancing	I-movie.name
+news	O-news
+
+who	O-who
+else	O-else
+could	O-could
+have	O-have
+preformed	O-preformed
+your	O-your
+job	O-job
+
+twenty	B-movie.gross_revenue
+one	I-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+was	O-was
+paid	O-paid
+out	O-out
+
+find	O-find
+some	O-some
+notes	O-notes
+on	O-on
+parental	O-parental
+guidance	O-guidance
+please	O-please
+
+who	O-who
+came	O-came
+up	O-up
+for	O-for
+the	O-the
+main	O-main
+plot	O-plot
+
+what	O-what
+is	O-is
+the	O-the
+standard	O-standard
+to	O-to
+be	O-be
+rated	O-rated
+g	B-rating.name
+
+i	O-i
+love	O-love
+person.name	B-person.name
+person.name	I-person.name
+
+show	O-show
+me	O-me
+the	O-the
+movie	O-movie
+reviews	O-reviews
+in	O-in
+orange	O-orange
+
+show	O-show
+me	O-me
+celebrities	O-celebrities
+
+how	O-how
+old	O-old
+do	O-do
+you	O-you
+have	O-have
+to	O-to
+be	O-be
+to	O-to
+see	O-see
+an	O-an
+r-rated	B-rating.name
+movie	O-movie
+
+does	O-does
+country.name	B-country.name
+have	O-have
+an	O-an
+equivalent	O-equivalent
+to	O-to
+th	O-th
+country.name	B-country.name
+oscar	B-award.ceremony
+awards	O-awards
+
+click	O-click
+on	O-on
+the	O-the
+most	O-most
+popular	O-popular
+movie	O-movie
+in	O-in
+orange	O-orange
+
+country.name	B-movie.location
+movie	O-movie
+locations	O-locations
+
+what	O-what
+is	O-is
+the	O-the
+history	O-history
+behind	O-behind
+lionsgate	B-producer.name
+
+what	O-what
+does	O-does
+an	O-an
+r	B-rating.name
+rating	O-rating
+mean	O-mean
+on	O-on
+a	O-a
+movie	O-movie
+
+can	O-can
+you	O-you
+give	O-give
+me	O-me
+more	O-more
+information	O-information
+about	O-about
+the	O-the
+text	O-text
+highlighted	O-highlighted
+in	O-in
+orange	O-orange
+
+what	O-what
+are	O-are
+the	O-the
+recommended	O-recommended
+ages	O-ages
+for	O-for
+a	O-a
+pg	B-rating.name
+movie	O-movie
+
+send	O-send
+dredd	B-movie.name
+movie	O-movie
+
+person.name	B-person.name
+person.name	I-person.name
+lover	O-lover
+
+did	O-did
+person.name	B-person.name
+person.name	I-person.name
+have	O-have
+an	O-an
+affair	O-affair
+with	O-with
+the	O-the
+director	O-director
+of	O-of
+snow	B-movie.name
+white	I-movie.name
+and	I-movie.name
+the	I-movie.name
+huntsman	I-movie.name
+
+show	O-show
+me	O-me
+movie	O-movie
+highlights	O-highlights
+in	O-in
+orange	O-orange
+
+need	O-need
+to	O-to
+rate	O-rate
+movie	O-movie
+
+how	O-how
+old	O-old
+do	O-do
+you	O-you
+have	O-have
+to	O-to
+be	O-be
+to	O-to
+see	O-see
+a	O-a
+rated	O-rated
+r	B-rating.name
+movie	O-movie
+
+what	O-what
+does	O-does
+a	O-a
+pg	B-rating.name
+thirteen	I-rating.name
+rating	O-rating
+mean	O-mean
+
+twenty	B-movie.gross_revenue
+one	I-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+is	O-is
+the	O-the
+first	O-first
+week	O-week
+gross	O-gross
+
+r	B-rating.name
+rating	O-rating
+what	O-what
+does	O-does
+that	O-that
+include	O-include
+
+in	B-movie.name
+julie	I-movie.name
+
+wb	B-producer.name
+-	O--
+what	O-what
+does	O-does
+it	O-it
+take	O-take
+to	O-to
+become	O-become
+a	O-a
+movie	O-movie
+producer	O-producer
+
+show	O-show
+me	O-me
+hollywood	O-hollywood
+influences	O-influences
+
+how	O-how
+does	O-does
+a	O-a
+movie	O-movie
+receive	O-receive
+an	O-an
+r	B-rating.name
+rating	O-rating
+
+did	O-did
+you	O-you
+have	O-have
+fun	O-fun
+on	O-on
+the	O-the
+set	O-set
+
+what	O-what
+are	O-are
+the	O-the
+rating	O-rating
+symbols	O-symbols
+for	O-for
+movies	O-movies
+
+sb	O-sb
+news	O-news
+on	O-on
+life	O-life
+
+i	O-i
+have	O-have
+a	O-a
+thirteen	O-thirteen
+year	O-year
+old	O-old
+
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+shoulde	O-shoulde
+of	O-of
+made	O-made
+less	O-less
+money	O-money
+
+when	O-when
+the	O-the
+movie	O-movie
+comes	O-comes
+out	O-out
+do	O-do
+you	O-you
+think	O-think
+it	O-it
+will	O-will
+raise	O-raise
+in	O-in
+the	O-the
+box	O-box
+office	O-office
+
+show	O-show
+me	O-me
+the	O-the
+movie	O-movie
+list	O-list
+in	O-in
+orange	O-orange
+
+show	O-show
+me	O-me
+the	O-the
+story	O-story
+of	O-of
+the	O-the
+person.name	B-person.name
+person.name	I-person.name
+
+classic	O-classic
+cars	O-cars
+
+i	O-i
+want	O-want
+to	O-to
+learn	O-learn
+about	O-about
+flowers	O-flowers
+
+out	O-out
+camping	O-camping
+
+happy	O-happy
+
+interesting	O-interesting
+
+sort	O-sort
+by	O-by
+spanish	B-movie.language
+
+where	O-where
+is	O-is
+punjabi	B-movie.language
+
+what	O-what
+is	O-is
+person.name	B-person.name
+person.name	I-person.name
+'s	O-'s
+middle	O-middle
+name	O-name
+
+ferret	O-ferret
+
+forty	O-forty
+three	O-three
+million	O-million
+what	O-what
+
+twenty	O-twenty
+one	O-one
+point	O-point
+two	O-two
+million	O-million
+dollars	O-dollars
+was	O-was
+divided	O-divided
+between	O-between
+who	O-who
+
+do	O-do
+movie	O-movie
+authors	O-authors
+use	O-use
+real	O-real
+countries	O-countries
+
+on	O-on
+lies	O-lies
+
+the	O-the
+movie	O-movie
+a	B-movie.name
+tanu	I-movie.name
+is	O-is
+from	O-from
+country.name	B-country.name
+;	O-;
+where	O-where
+is	O-is
+the	O-the
+country	O-country
+country.name	B-country.name
+
+how	O-how
+fun	O-fun
+is	O-is
+it	O-it
+to	O-to
+produce	O-produce
+a	O-a
+movie	O-movie
+
+did	O-did
+you	O-you
+like	O-like
+working	O-working
+with	O-with
+who	O-who
+you	O-you
+did	O-did
+
+can	O-can
+i	O-i
+see	O-see
+a	O-a
+map	O-map
+of	O-of
+country.name	B-country.name
+
+was	O-was
+your	O-your
+journey	O-journey
+worth	O-worth
+it	O-it
+
+south	O-south
+american	O-american
+country	O-country
+flags	O-flags
+
+need	O-need
+more	O-more
+info	O-info
+that	O-that
+relates	O-relates
+to	O-to
+country.name	B-country.name
+
+flags	O-flags
+of	O-of
+planet	O-planet
+earth	O-earth
+
+best	O-best
+writers	O-writers
+in	O-in
+the	O-the
+field	O-field
+
+find	O-find
+the	O-the
+male	O-male
+actor	O-actor
+from	O-from
+grand	B-movie.name
+torino	I-movie.name
+
+who	O-who
+played	O-played
+the	O-the
+female	O-female
+lead	O-lead
+in	O-in
+hitch	B-movie.name
+
+find	O-find
+the	O-the
+female	O-female
+actress	O-actress
+from	O-from
+shallow	B-movie.name
+hal	I-movie.name
+
+who	O-who
+is	O-is
+in	O-in
+picture	O-picture
+three	O-three
+
+who	O-who
+are	O-are
+the	O-the
+lead	O-lead
+actors	O-actors
+
+how	O-how
+old	O-old
+is	O-is
+person.name	B-person.name
+person.name	I-person.name
+
+when	O-when
+was	O-was
+person.name	B-person.name
+person.name	I-person.name
+born	O-born
+
+where	O-where
+was	O-was
+black	B-movie.name
+swan	I-movie.name
+directed	O-directed
+
+where	O-where
+was	O-was
+muriel	B-movie.name
+'s	I-movie.name
+wedding	I-movie.name
+shot	O-shot
+
+show	O-show
+release	O-release
+date	O-date
+in	O-in
+the	B-movie.release_region
+usa	I-movie.release_region
+for	O-for
+the	O-the
+movie	O-movie
+little	B-movie.name
+women	I-movie.name
+
+show	O-show
+movie	O-movie
+description	O-description
+
+i	O-i
+'d	O-'d
+like	O-like
+to	O-to
+see	O-see
+popular	O-popular
+film	O-film
+directors	O-directors
+from	O-from
+the	O-the
+nineteen	B-movie.release_date
+fifty	I-movie.release_date
+'s	I-movie.release_date
+through	I-movie.release_date
+today	I-movie.release_date
+
+best	O-best
+director	O-director
+
+best	O-best
+directors	O-directors
+of	O-of
+all	O-all
+time	O-time
+
+please	O-please
+show	O-show
+me	O-me
+famous	O-famous
+film	O-film
+directors	O-directors
+
+greatest	O-greatest
+directors	O-directors
+
+who	O-who
+produced	O-produced
+some	O-some
+of	O-of
+the	O-the
+most	O-most
+popular	O-popular
+movies	O-movies
+
+show	O-show
+me	O-me
+successful	O-successful
+movie	O-movie
+directors	O-directors
+
+who	O-who
+produced	O-produced
+hotel	B-movie.name
+rwanda	I-movie.name
+cover	O-cover
+art	O-art
+
+who	O-who
+'s	O-'s
+the	O-the
+director	O-director
+
+director	O-director
+'s	O-'s
+name	O-name
+
+what	O-what
+is	O-is
+the	O-the
+name	O-name
+of	O-of
+a	O-a
+turkish	B-director.nationality
+director	O-director
+that	O-that
+produced	O-produced
+a	O-a
+drama	B-movie.genre
+film	O-film
+
+watch	O-watch
+dredd	B-movie.name
+movie	O-movie
+
+see	O-see
+dredd	B-movie.name
+movie	O-movie
+
+what	O-what
+was	O-was
+the	O-the
+name	O-name
+of	O-of
+an	O-an
+academy	B-award.ceremony
+award	O-award
+winning	O-winning
+country.name	B-country.name
+documentary	B-movie.genre
+
+what	O-what
+movie	O-movie
+titles	O-titles
+starring	O-starring
+person.name	B-actor.name
+person.name	I-actor.name
+earned	O-earned
+oscar	B-award.ceremony
+nominations	O-nominations
+
+in	O-in
+search	O-search
+for	O-for
+names	O-names
+of	O-of
+crew	O-crew
+members	O-members
+please	O-please
+
+get	O-get
+me	O-me
+reviews	O-reviews
+and	O-and
+info	O-info
+about	O-about
+the	B-movie.name
+campaign	I-movie.name
+movie	O-movie
+
+show	O-show
+me	O-me
+reviews	O-reviews
+and	O-and
+info	O-info
+for	O-for
+the	B-movie.name
+campaign	I-movie.name
+
+what	O-what
+movies	O-movies
+that	O-that
+person.name	B-director.name
+person.name	I-director.name
+direct	O-direct
+that	O-that
+he	O-he
+won	O-won
+the	O-the
+best	B-award.category
+director	I-award.category
+oscar	B-award.ceremony
+for	O-for
+
+what	O-what
+'s	O-'s
+person.name	B-director.name
+'s	O-'s
+most	O-most
+famous	O-famous
+movie	O-movie
+
+tell	O-tell
+me	O-me
+some	O-some
+of	O-of
+person.name	B-director.name
+person.name	I-director.name
+person.name	I-director.name
+best	O-best
+movies	O-movies
+
+looking	O-looking
+for	O-for
+movies	O-movies
+directed	O-directed
+by	O-by
+actor	O-actor
+number	O-number
+one	O-one
+
+list	O-list
+of	O-of
+movies	O-movies
+directed	O-directed
+by	O-by
+director	O-director
+three	O-three
+
+show	O-show
+me	O-me
+the	O-the
+film	O-film
+that	O-that
+grossed	O-grossed
+seven	B-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+million	I-movie.gross_revenue
+at	O-at
+the	O-the
+box	O-box
+office	O-office
+
+show	O-show
+me	O-me
+movies	O-movies
+that	O-that
+made	O-made
+over	B-movie.gross_revenue
+seven	I-movie.gross_revenue
+million	I-movie.gross_revenue
+dollars	I-movie.gross_revenue
+
+show	O-show
+me	O-me
+movies	O-movies
+that	O-that
+didn	O-didn
+'t	O-'t
+gross	O-gross
+much	O-much
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+movies	O-movies
+from	O-from
+early	B-movie.release_date
+two	I-movie.release_date
+thousands	I-movie.release_date
+
+show	O-show
+last	B-movie.release_date
+years	I-movie.release_date
+films	O-films
+by	O-by
+7	B-producer.name
+arts	I-producer.name
+
+show	O-show
+all	O-all
+movies	O-movies
+that	O-that
+came	O-came
+out	O-out
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+
+were	O-were
+there	O-there
+any	O-any
+movies	O-movies
+released	O-released
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+
+show	O-show
+me	O-me
+movies	O-movies
+from	O-from
+the	O-the
+nineteen	B-movie.release_date
+seventies	I-movie.release_date
+
+can	O-can
+you	O-you
+list	O-list
+all	O-all
+movies	O-movies
+from	O-from
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+with	O-with
+a	O-a
+rating	O-rating
+of	O-of
+three	B-movie.star_rating
+stars	O-stars
+and	O-and
+up	O-up
+
+academy	B-award.ceremony
+award	O-award
+lionsgate	B-producer.name
+movies	O-movies
+
+show	O-show
+oscar	B-award.ceremony
+winning	O-winning
+movies	O-movies
+by	O-by
+warner	B-producer.name
+brothers	I-producer.name
+
+what	O-what
+movie	O-movie
+performance	O-performance
+did	O-did
+person.name	B-actor.name
+person.name	I-actor.name
+win	O-win
+her	O-her
+best	B-award.category
+supporting	I-award.category
+oscar	B-award.ceremony
+
+have	O-have
+any	O-any
+country.name	B-country.name
+released	O-released
+movies	O-movies
+been	O-been
+filmed	O-filmed
+on	O-on
+location	O-location
+in	O-in
+the	O-the
+country.name	B-movie.location
+country.name	I-movie.location
+
+what	O-what
+country.name	B-country.name
+release	O-release
+movies	O-movies
+have	O-have
+been	O-been
+filmed	O-filmed
+in	O-in
+the	O-the
+country.name	B-movie.location
+country.name	I-movie.location
+
+list	O-list
+movies	O-movies
+set	O-set
+in	O-in
+country.name	B-movie.location
+
+show	O-show
+me	O-me
+the	O-the
+movies	O-movies
+released	O-released
+in	O-in
+england	B-movie.release_region
+
+what	O-what
+movies	O-movies
+are	O-are
+coming	O-coming
+out	O-out
+this	B-movie.release_date
+week	I-movie.release_date
+in	O-in
+great	B-movie.release_region
+britain	I-movie.release_region
+
+show	O-show
+me	O-me
+the	O-the
+movies	O-movies
+released	O-released
+in	O-in
+nepal	B-movie.release_region
+
+what	O-what
+are	O-are
+the	O-the
+top	O-top
+five	O-five
+country.name	B-country.name
+movies	O-movies
+of	O-of
+all	O-all
+time	O-time
+
+what	O-what
+top	O-top
+films	O-films
+have	O-have
+come	O-come
+out	O-out
+of	O-of
+country.name	B-country.name
+
+show	O-show
+me	O-me
+the	O-the
+top	O-top
+movies	O-movies
+from	O-from
+country.name	B-country.name
+
+what	O-what
+is	O-is
+the	O-the
+highest	O-highest
+rated	O-rated
+zombie	B-movie.subject
+movie	O-movie
+
+what	O-what
+are	O-are
+highly	O-highly
+rated	O-rated
+zombie	B-movie.subject
+movies	O-movies
+i	O-i
+can	O-can
+watch	O-watch
+
+look	O-look
+for	O-for
+popular	O-popular
+movies	O-movies
+
+search	O-search
+for	O-for
+foreign	B-movie.language
+language	I-movie.language
+films	O-films
+
+what	O-what
+is	O-is
+person.name	B-actor.name
+person.name	I-actor.name
+famous	O-famous
+for	O-for
+
+is	O-is
+this	O-this
+a	O-a
+musical	B-movie.genre
+
+hope	O-hope
+that	O-that
+the	O-the
+movie	O-movie
+is	O-is
+in	O-in
+english	B-movie.language
+
+is	O-is
+this	O-this
+movie	O-movie
+in	O-in
+english	B-movie.language
+
+do	O-do
+they	O-they
+speak	O-speak
+german	B-movie.language
+in	O-in
+the	O-the
+movie	O-movie
+
+is	O-is
+this	O-this
+movie	O-movie
+filmed	O-filmed
+in	O-in
+country.name	B-movie.location
+
+show	O-show
+all	O-all
+dawn	B-movie.name
+of	I-movie.name
+the	I-movie.name
+dead	I-movie.name
+movies	O-movies
+
+all	O-all
+of	O-of
+kung	B-movie.name
+fu	I-movie.name
+panda	I-movie.name
+movies	O-movies
+
+list	O-list
+movies	O-movies
+that	O-that
+have	O-have
+time	O-time
+travel	O-travel
+in	O-in
+their	O-their
+title	O-title
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+nine	B-movie.release_date
+twenty	I-movie.release_date
+eight	I-movie.release_date
+release	O-release
+date	O-date
+films	O-films
+from	O-from
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+
+find	O-find
+information	O-information
+about	O-about
+french	B-movie.language
+movies	O-movies
+
+i	O-i
+need	O-need
+to	O-to
+know	O-know
+more	O-more
+about	O-about
+the	O-the
+life	O-life
+and	O-and
+movies	O-movies
+of	O-of
+indian	B-actor.nationality
+actor	O-actor
+person.name	B-actor.name
+person.name	I-actor.name
+
+what	O-what
+does	O-does
+the	O-the
+miramax	B-producer.name
+logo	O-logo
+look	O-look
+like	O-like
+
+show	O-show
+me	O-me
+pictures	O-pictures
+of	O-of
+person.name	B-person.name
+person.name	I-person.name
+
+photos	O-photos
+of	O-of
+person.name	B-person.name
+person.name	I-person.name
+
+i	O-i
+want	O-want
+to	O-to
+see	O-see
+images	O-images
+of	O-of
+person.name	B-person.name
+person.name	I-person.name
+
+show	O-show
+me	O-me
+pictures	O-pictures
+of	O-of
+person.name	B-person.name
+person.name	I-person.name
+
+what	O-what
+are	O-are
+popular	O-popular
+movie	O-movie
+producers	O-producers
+
+can	O-can
+you	O-you
+give	O-give
+me	O-me
+the	O-the
+producer	O-producer
+
+i	O-i
+would	O-would
+like	O-like
+to	O-to
+know	O-know
+the	O-the
+rating	O-rating
+of	O-of
+the	O-the
+movie	O-movie
+avatar	B-movie.name
+
+what	O-what
+rating	O-rating
+is	O-is
+the	O-the
+movie	O-movie
+barfi	B-movie.name
+
+what	O-what
+is	O-is
+finding	B-movie.name
+nemo	I-movie.name
+rated	O-rated
+
+i	O-i
+need	O-need
+to	O-to
+know	O-know
+the	O-the
+rating	O-rating
+of	O-of
+grease	B-movie.name
+
+can	O-can
+you	O-you
+find	O-find
+out	O-out
+what	O-what
+rating	O-rating
+the	O-the
+movie	O-movie
+grease	B-movie.name
+is	O-is
+
+what	O-what
+is	O-is
+kids	B-movie.name
+by	O-by
+person.name	B-director.name
+person.name	I-director.name
+rated	O-rated
+
+what	O-what
+rating	O-rating
+did	O-did
+marley	B-movie.name
+and	I-movie.name
+me	I-movie.name
+receive	O-receive
+
+what	O-what
+is	O-is
+the	O-the
+rating	O-rating
+for	O-for
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+
+what	O-what
+rating	O-rating
+did	O-did
+resident	B-movie.name
+evil	I-movie.name
+receive	O-receive
+
+rating	O-rating
+for	O-for
+snow	B-movie.name
+white	I-movie.name
+and	I-movie.name
+the	I-movie.name
+huntsman	I-movie.name
+
+what	O-what
+rating	O-rating
+is	O-is
+step	B-movie.name
+up	I-movie.name
+
+look	O-look
+up	O-up
+the	O-the
+rating	O-rating
+of	O-of
+the	O-the
+movie	O-movie
+step	B-movie.name
+up	I-movie.name
+
+what	O-what
+rating	O-rating
+did	O-did
+the	B-movie.name
+campaign	I-movie.name
+movie	O-movie
+get	O-get
+
+show	O-show
+me	O-me
+the	O-the
+rating	O-rating
+for	O-for
+the	O-the
+movie	O-movie
+the	B-movie.name
+expendables	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+rating	O-rating
+for	O-for
+toy	B-movie.name
+story	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+rating	O-rating
+for	O-for
+the	O-the
+movie	O-movie
+toy	B-movie.name
+story	I-movie.name
+
+rating	O-rating
+for	O-for
+twilight	B-movie.name
+breaking	I-movie.name
+dawn	I-movie.name
+
+what	O-what
+was	O-was
+gross	O-gross
+revenue	O-revenue
+for	O-for
+batman	B-movie.name
+begins	I-movie.name
+
+how	O-how
+much	O-much
+has	O-has
+black	B-movie.name
+swan	I-movie.name
+brought	O-brought
+in	O-in
+
+find	O-find
+the	O-the
+revenue	O-revenue
+for	O-for
+downton	B-movie.name
+abbey	I-movie.name
+
+find	O-find
+the	O-the
+revenue	O-revenue
+of	O-of
+edward	B-movie.name
+scissor	I-movie.name
+hands	I-movie.name
+
+what	O-what
+is	O-is
+the	O-the
+most	O-most
+a	O-a
+movie	O-movie
+made	O-made
+
+reviews	O-reviews
+for	O-for
+dirty	B-movie.name
+dancing	I-movie.name
+
+find	O-find
+reviews	O-reviews
+for	O-for
+dirty	B-movie.name
+dancing	I-movie.name
+
+what	O-what
+are	O-are
+reviews	O-reviews
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+what	O-what
+are	O-are
+the	O-the
+ratings	O-ratings
+and	O-and
+review	O-review
+on	O-on
+finding	B-movie.name
+nemo	I-movie.name
+
+reviews	O-reviews
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+reviews	O-reviews
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+reviews	O-reviews
+for	O-for
+finding	B-movie.name
+nemo	I-movie.name
+
+reviews	O-reviews
+for	O-for
+movie	O-movie
+
+reviews	O-reviews
+for	O-for
+in	B-movie.name
+july	I-movie.name
+
+what	O-what
+are	O-are
+the	O-the
+reviewers	O-reviewers
+saying	O-saying
+about	O-about
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+
+how	O-how
+long	O-long
+is	O-is
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+synopsis	O-synopsis
+for	O-for
+the	O-the
+movie	O-movie
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+synopsis	O-synopsis
+for	O-for
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+
+summary	O-summary
+of	O-of
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+
+finding	B-movie.name
+nemo	I-movie.name
+movie	O-movie
+shortcut	O-shortcut
+
+show	O-show
+me	O-me
+the	O-the
+trailer	O-trailer
+for	O-for
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+life	B-movie.name
+is	I-movie.name
+beatiful	I-movie.name
+shortcut	O-shortcut
+
+trailer	O-trailer
+for	O-for
+star	B-movie.name
+wars	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+
+show	O-show
+resident	B-movie.name
+evil	I-movie.name
+movies	O-movies
+with	O-with
+trailers	O-trailers
+
+can	O-can
+i	O-i
+see	O-see
+previews	O-previews
+for	O-for
+upcoming	O-upcoming
+warner	B-producer.name
+brothers	I-producer.name
+movies	O-movies
+
+how	O-how
+many	O-many
+person.name	B-director.name
+person.name	I-director.name
+movies	O-movies
+are	O-are
+set	O-set
+in	O-in
+country.name	B-movie.location
+country.name	I-movie.location
+country.name	I-movie.location
+
+how	O-how
+many	O-many
+scorsese	B-producer.name
+films	O-films
+were	O-were
+filmed	O-filmed
+in	O-in
+country.name	B-movie.location
+
